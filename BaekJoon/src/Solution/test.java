@@ -10,7 +10,7 @@ public class test {
 //		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 //		StringTokenizer st = null;
 //		st = new StringTokenizer(br.readLine(), " ");
-		 
+		
 //		double y = 3, x = 3;
 //		double y = -3, x = 3;
 		double y = 3, x = -3;
