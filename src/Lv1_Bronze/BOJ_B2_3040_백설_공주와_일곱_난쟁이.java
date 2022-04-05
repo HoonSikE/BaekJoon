@@ -4,7 +4,11 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
-
+/**
+ * @author HanHoon
+ * @category 브루트포스 알고리즘
+ * https://www.acmicpc.net/problem/3040
+ */
 public class BOJ_B2_3040_백설_공주와_일곱_난쟁이 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

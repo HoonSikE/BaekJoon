@@ -4,7 +4,11 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-
+/**
+ * @author HanHoon
+ * @category 수학, 구현, 사칙연산
+ * https://www.acmicpc.net/problem/1000
+ */
 public class BOJ_B5_1000_A_B {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

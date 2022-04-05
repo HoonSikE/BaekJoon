@@ -4,21 +4,23 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-
+/**
+ * @author HanHoon
+ * @category 구현, 시뮬레이션
+ * https://www.acmicpc.net/problem/20361
+ */
 public class BOJ_B3_20361_일우는_야바위꾼 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder str = new StringBuilder();
 		StringTokenizer st = null;
 		// T : 테스트케이스 개수, br.readLine()을 int형으로 변경해준다., 범위 확인
-//		int T = Integer.parseInt(br.readLine());
 		int T = 1;
 		if(!(1<=T&&T<=10)) { System.out.println("1<=T<=10 범위를 초과했습니다."); return;}
 		
 		// T만큼 반복
 		for (int testcase = 1; testcase <= T; testcase++) {
 			// 테스트 케이스 별 출력
-//			str.append("#").append(testcase).append(" ");
 			// 라인벌로 space 기준으로 토큰으로 나눔
 			st = new StringTokenizer(br.readLine(), " ");
 			// 토큰값을 int값으로 변경
