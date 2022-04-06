@@ -38,8 +38,8 @@
 
  - Lv2_Silver
  
-		BOJ_S1_1074_Z.java					2022-02-15 / Webex
-		BOJ_S1_1149_RGB거리.java				2022-03-31 / Webex
+o		BOJ_S1_1074_Z.java					2022-02-15 / Webex
+		!BOJ_S1_1149_RGB거리.java				2022-03-31 / Webex
 		BOJ_S1_11660_구간_합_구하기_5.java			2022-03-08
 		BOJ_S1_1254_팰린드롬_만들기.java			2022-03-07 / Study
 		BOJ_S1_1527_금민수의_개수.java				2022-03-01
