@@ -4,7 +4,11 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-
+/**
+ * @author HanHoon
+ * @category 분할 정복, 재귀
+ * https://www.acmicpc.net/problem/1074
+ */
 public class BOJ_S1_1074_Z {
 	static int count = 0;
 	public static void searchIndex(int size, int r, int c) {
