@@ -17,9 +17,8 @@ public class BOJ_S2_10819_차이를_최대로 {
 	public static void backtracking(int count) {
 		if(count == N) {
 			int max = 0;
-			for (int i = 0; i < N-1; i++) {
+			for (int i = 0; i < N-1; i++)
 				max += Math.abs(new_arr[i] - new_arr[i+1]);
-			}
 			result = Math.max(max, result);
 			return;
 		}
@@ -41,9 +40,8 @@ public class BOJ_S2_10819_차이를_최대로 {
 		arr = new int[N];
 		new_arr = new int[N];
 		isSelect = new boolean[N];
-		for (int i = 0; i < N; i++) {
+		for (int i = 0; i < N; i++)
 			arr[i] = Integer.parseInt(st.nextToken());
-		}
 		backtracking(0);
 		System.out.println(result);
 		br.close();
