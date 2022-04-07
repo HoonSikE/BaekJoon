@@ -4,7 +4,11 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-
+/**
+ * @author HanHoon
+ * @category 구현
+ * https://www.acmicpc.net/problem/16935
+ */
 public class BOJ_S1_16935_배열_돌리기_3 {
 	static int N, M, map[][], result[][];
 	public static void swap() {
