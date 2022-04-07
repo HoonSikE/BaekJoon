@@ -3,7 +3,11 @@ package Lv2_Silver;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
+/**
+ * @author HanHoon
+ * @category 분할 정복, 재귀
+ * https://www.acmicpc.net/problem/1992
+ */
 public class BOJ_S1_1992_쿼드트리 {
 	static int[][] arr;
 	static StringBuilder result = new StringBuilder();
@@ -11,13 +15,11 @@ public class BOJ_S1_1992_쿼드트리 {
 	public static boolean isPossible(int size, int startY, int startX) {
 		// 초기값 입력
 		int data = arr[startY][startX];
-		for (int i = startY; i < startY + size; i++) {
-			for (int j = startX; j < startX + size; j++) {
+		for (int i = startY; i < startY + size; i++)
+			for (int j = startX; j < startX + size; j++)
 				// 1개라도 틀리면 압축 불가
 				if(data != arr[i][j])
 					return false;
-			}
-		}
 		return true;
 	}
 	public static void QuadTree(int size, int startY, int startX) {
