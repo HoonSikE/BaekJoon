@@ -4,7 +4,11 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-// 브루트포스 알고리즘
+/**
+ * @author HanHoon
+ * @category 브루트포스 알고리즘
+ * https://www.acmicpc.net/problem/1527
+ */
 public class BOJ_S1_1527_금민수의_개수 {
 	static int result = 0;
 	public static void makeGoldNumber(int count, int num, int N, int A, int B) {
