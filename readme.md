@@ -36,6 +36,7 @@
 		BOJ_B5_10718_We_love_kriii.java			2022-02-19
 		xBOJ_B5_24900_한별_찍기.java					2022-04-07
 		BOJ_B5_2557_Hello_World.java			2022-02-13 / Tistory
+		BOJ_B5_2558_A_B_2.java
 
  - Lv2_Silver
  
