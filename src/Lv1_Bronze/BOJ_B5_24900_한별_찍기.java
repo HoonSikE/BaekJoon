@@ -1,5 +1,9 @@
 package Lv1_Bronze;
-
+/**
+ * @author HanHoon
+ * @category 구현
+ * https://www.acmicpc.net/problem/24900
+ */
 public class BOJ_B5_24900_한별_찍기 {
 	public static void main(String[] args) {
 		System.out.println("                                                           :8DDDDDDDDDDDDDD$.                                           \n" + 
