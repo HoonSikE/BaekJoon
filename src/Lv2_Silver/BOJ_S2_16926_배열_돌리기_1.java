@@ -4,7 +4,11 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-
+/**
+ * @author HanHoon
+ * @category 구현
+ * https://www.acmicpc.net/problem/16926
+ */
 public class BOJ_S2_16926_배열_돌리기_1 {
 	private static int[] dx = {0,1,0,-1};  //하우상좌
 	private static int[] dy = {1,0,-1,0};  //하우상좌
