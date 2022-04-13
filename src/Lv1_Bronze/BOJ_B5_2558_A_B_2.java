@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 /**
  * @author HanHoon
- * @category
+ * @category 수학, 구현, 사칙연산
  * https://www.acmicpc.net/problem/2558
  */
 public class BOJ_B5_2558_A_B_2 {
