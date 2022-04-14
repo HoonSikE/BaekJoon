@@ -6,7 +6,11 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
-
+/**
+ * @author HanHoon
+ * @category 그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색
+ * https://www.acmicpc.net/problem/4963
+ */
 class Pair{
 	int y;
 	int x;
