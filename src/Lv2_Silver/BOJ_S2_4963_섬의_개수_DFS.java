@@ -4,7 +4,11 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-
+/**
+ * @author HanHoon
+ * @category 그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색
+ * https://www.acmicpc.net/problem/4963
+ */
 public class BOJ_S2_4963_섬의_개수_DFS {
 	static int W, H, map[][];
 	static boolean[][] visited;
