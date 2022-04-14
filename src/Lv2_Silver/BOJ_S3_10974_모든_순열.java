@@ -3,7 +3,11 @@ package Lv2_Silver;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
+/**
+ * @author HanHoon
+ * @category 브루트포스 알고리즘, 백트래킹
+ * https://www.acmicpc.net/problem/10974
+ */
 public class BOJ_S3_10974_모든_순열 {
 	static StringBuilder str = new StringBuilder();
 	public static void combination(int N, int[] result, boolean[] isSelected, int count) {
