@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
  * @category 문자열
  * https://www.acmicpc.net/problem/5525
  */
-public class BOJ_S2_5525_IOIOI {
+public class BOJ_S1_5525_IOIOI {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		// 문자열 규칙 Pn의 번호
