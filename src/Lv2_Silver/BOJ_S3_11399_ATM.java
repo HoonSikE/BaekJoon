@@ -5,7 +5,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
-
+/**
+ * @author HanHoon
+ * @category 그리디 알고리즘, 정렬
+ * https://www.acmicpc.net/problem/11399
+ */
 public class BOJ_S3_11399_ATM {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
