@@ -32,6 +32,7 @@
 		BOJ_B3_20361_일우는_야바위꾼.java			2022-02-14 / Test2_1
 		BOJ_B5_1000_A_B.java				2022-03-29
 		BOJ_B5_1001_A_B.java				2022-03-30
+		xBOJ_B5_1008_A_B.java				2022-04-15
 		BOJ_B5_10171_고양이.java				2022-04-04
 		BOJ_B5_10172_개.java				2022-04-08
 		BOJ_B5_10718_We_love_kriii.java			2022-02-19
