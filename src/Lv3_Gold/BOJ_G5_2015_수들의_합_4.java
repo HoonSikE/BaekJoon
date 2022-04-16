@@ -11,7 +11,7 @@ import java.util.StringTokenizer;
  * @category 자료 구조, 누적 합, 트리를 사용한 집합과 맵
  * https://www.acmicpc.net/problem/2015
  */
-public class BOJ_G5_수들의_합_4 {
+public class BOJ_G5_2015_수들의_합_4 {
 	static int K, result;
 	public static void combination(int start, int count, int sum, ArrayList<Integer> list) {
 		if(count == 2) {

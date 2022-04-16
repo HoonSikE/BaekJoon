@@ -5,7 +5,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
 import java.util.StringTokenizer;
-
+/**
+ * @author HanHoon
+ * @category 자료 구조, 스택
+ * https://www.acmicpc.net/problem/2493
+ */
 public class BOJ_G5_2493_탑 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

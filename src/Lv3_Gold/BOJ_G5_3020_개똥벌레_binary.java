@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 /**
  * @author HanHoon
- * @category 이분탐색, 누적 합
+ * @category 정렬, 이분탐색, 누적 합
  * https://www.acmicpc.net/problem/3020
  */
 public class BOJ_G5_3020_개똥벌레_binary {

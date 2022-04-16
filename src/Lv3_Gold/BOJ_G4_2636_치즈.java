@@ -9,7 +9,6 @@ import java.util.StringTokenizer;
  * @category 구현, 그래프 이론, 그래프 탐색, 너비 우선 탐색, 시뮬레이션, 깊이 우선 탐색
  * https://www.acmicpc.net/problem/2636
  */
-public 
 public class BOJ_G4_2636_치즈 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
