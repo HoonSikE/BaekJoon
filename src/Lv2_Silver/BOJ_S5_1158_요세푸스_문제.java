@@ -6,7 +6,11 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
-
+/**
+ * @author HanHoon
+ * @category 자료구조, 큐
+ * https://www.acmicpc.net/problem/1158
+ */
 public class BOJ_S5_1158_요세푸스_문제 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
