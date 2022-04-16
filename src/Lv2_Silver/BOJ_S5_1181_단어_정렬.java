@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 /**
  * @author HanHoon
- * @category 
+ * @category 문자열, 정렬
  * https://www.acmicpc.net/problem/1181
  */
 public class BOJ_S5_1181_단어_정렬 {
