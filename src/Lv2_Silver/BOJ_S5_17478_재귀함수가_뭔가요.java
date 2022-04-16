@@ -3,7 +3,11 @@ package Lv2_Silver;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
+/**
+ * @author HanHoon
+ * @category 구현, 재귀
+ * https://www.acmicpc.net/problem/17478
+ */
 public class BOJ_S5_17478_재귀함수가_뭔가요 {
 	
 	public static void recursive(int num, String under_bar) {
@@ -25,75 +29,3 @@ public class BOJ_S5_17478_재귀함수가_뭔가요 {
 		recursive(N, "");
 	}
 }
-
-/*
-
-[입력]
-1
-
-[출력]
-** Recursive Call **
-1
-2
-3
-4
-____1
-____5
-____6
-6
-
-
-2
-** Recursive Call **
-1
-2
-3
-4
-____1
-____2
-____3
-____4
-________1
-________5
-________6
-____6
-6
-
-public class Solution {
-	static String underBar = "";
-	static String sArr[];
-	
-	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
-		int N = sc.nextInt();
-		System.out.println("** Recursive Call **");
-		sArr = new String[6];
-		sArr[0] = "1";
-		sArr[1] = "2";
-		sArr[2] = "3";
-		sArr[3] = "4";
-		sArr[4] = "5";
-		sArr[5] = "6";
-		recursive(N);
-	}
-	
-	private static void recursive(int num) {
-		String temp=underBar;
-		
-		if(num == 0) {
-			System.out.println(temp + sArr[0]);
-			System.out.println(temp + sArr[4]);
-			System.out.println(temp + sArr[5]);
-			return;
-		}
-		// 재귀호출 하면서 반복되는 4개의 문장
-		for(int i = 0; i<4; i++) {
-			System.out.println(temp + sArr[i]);
-		}
-		
-		underBar += "____";
-		recursive(num-1);
-		System.out.println(temp + sArr[5]);
-	}
-}
-*/
