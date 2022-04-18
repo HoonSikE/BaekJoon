@@ -40,12 +40,6 @@ public class BOJ_G4_9935_문자열_폭발 {
 			// 폭탄이 없으면 문자열을 추가한다.
 			answer[index++] = string.charAt(i);	
 		}
-//		while(true) {
-//			int index = -1;
-//			index = string.indexOf(C4);
-//			if(index == -1) break;
-//			string = string.replaceAll(C4, "");
-//		}
 		// 문자열이 모두 폭파되었다면 FRULA
 		if(index == 0)
 			str.append("FRULA");
