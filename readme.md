@@ -125,6 +125,7 @@
 		!BOJ_G2_1202_보석_도둑.java				2022-
 		BOJ_G2_3109_빵집.java						2022-02-17 / Webex
 		!BOJ_G3_16236_아기_상어.java				2022-02-23 / Webex
+		BOJ_G3_2629_양팔저울.java				2022-04-26 / Test
 		BOJ_G4_1520_내리막_길.java				2022-04-18 / Test
 		!BOJ_G4_17144_미세먼지_안녕.java			2022-02-25 / Webex
 		BOJ_G4_1987_알파벳.java					2022-02-17 / HW
