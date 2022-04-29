@@ -13,5 +13,7 @@ ABC
 16
 */
 public class BOJ_P5_1786_찾기 {
-
+	public static void main(String[] args) {
+		
+	}
 }
