@@ -12,7 +12,7 @@ public class BOJ_B3_2741_N_찍기 {
 	public static void main(String[] args) throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder str = new StringBuilder();
-		int N = Integer.parseInt(br.readLine())
+		int N = Integer.parseInt(br.readLine());
 		for (int i = 1; i <= N; i++)
 			str.append(i+"\n");
 		System.out.println(str);
