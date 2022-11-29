@@ -2,7 +2,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=han_hoon)](https://solved.ac/han_hoon)
 
-- Lv0_Extra
+ - Lv0_Extra
 
 		BOJ_Extra_1237_정ㅋ벅ㅋ.java				
  - Lv1_Bronze
@@ -71,6 +71,7 @@
 		BOJ_B5_2557_Hello_World.java			2022-02-13 / Tistory
 		BOJ_B5_2558_A_B_2.java			2022-04-09
 		BOJ_B5_5337_웰컴.java				2022-04-10
+
  - Lv2_Silver
  
 		BOJ_S1_1074_Z.java					2022-02-15 / Webex
@@ -83,6 +84,7 @@
 		BOJ_S1_1992_쿼드트리.java				2022-02-16 / HW
 		BOJ_S1_2527_직사각형.java					2022-02-14 / IM 검정 대비 필수 문제 8
 		BOJ_S1_9205_맥주_마시면서_걸어가기.java		2022-04-13 / HW
+		BOJ_S1_2468_안전_영역.java					2022-11-29
 		BOJ_S1_2564_경비원.java					2022-02-13 / IM 검정 대비 필수 문제 5
 		BOJ_S1_5525_IOIOI.java					2022-03-07 / Study
 
@@ -149,6 +151,7 @@
 		BOJ_S5_2941_크로아티아_알파벳.java			2022-02-26 / IM 검정 대비 필수 문제(2)
 		BOJ_S5_8892_팰린드롬.java					2022-04-29
 		BOJ_S5_9655_돌_게임.java
+
  - Lv3_Gold
 
 		!BOJ_G1_1194_달이_차오른다_가자.java			2022-04-01
@@ -184,6 +187,7 @@
 		BOJ_G5_3020_개똥벌레.java					2022-03-08
 		!BOJ_G5_7576_토마토.java					2022-02-25 / Webex
 		!BOJ_G5_9251_LCS.java					2022-03-23
+
  - Lv4_Platinum
  
 		!BOJ_P5_1786_찾기.java					2022-02-24 / Webex
