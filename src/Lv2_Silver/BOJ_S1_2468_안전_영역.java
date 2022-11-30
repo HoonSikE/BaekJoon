@@ -11,28 +11,31 @@ import java.util.StringTokenizer;
  * https://www.acmicpc.net/problem/2468
  */
 public class BOJ_S1_2468_안전_영역 {
-    // 모든 높이가 같다면 최대의 경우는 1이다.
-    static int result = 1;
+    static int answer = 0;
+    static int result = 0;
     static int N;
     static int[][] arr;
     static boolean[][] isVisited;
-    static int height = 1;
+    static int height = 0;
     // 상하좌우
     static int[] dCol = { 1,-1, 0, 0};
     static int[] dRow = { 0, 0,-1, 1};
 
-    public void dfs(int y, int x){
-
+    public static void dfs(int y, int x){
+        // 방문 표시
+        isVisited[y][x] = true;
 
         // 상하좌우 탐색
         for (int i = 0; i < 4; i++) {
             int nextCol = y + dCol[i];
             int nextRow = x + dRow[i];
 
-            // 범위를 벗어나거나 이미 침수상태라면 continue;
-            if(nextCol < 0 || nextCol >= N || nextRow < 0 || nextRow >= N || arr[nextCol][nextRow] < height){
+            // 범위를 벗어나면 continue
+            if(nextCol < 0 || nextCol >= N || nextRow < 0 || nextRow >= N)
                 continue;
-            }
+            // 침수되지 않았고 방문하지 않았다면 탐색 실시
+            if(arr[nextCol][nextRow] > height && !isVisited[nextCol][nextRow])
+                dfs(nextCol, nextRow);
         }
     }
 
@@ -54,12 +57,22 @@ public class BOJ_S1_2468_안전_영역 {
             }
         }
 
-
-        for (height = 1; height <= maxHeight; height++) {
-            // 물의 높이가 1일때 부터 최대높이(maxHeight)일 때까지
+        // 물의 높이가 1일때 부터 최대높이(maxHeight)일 때까지
+        for (height = 0; height <= maxHeight; height++) {
             // 방문 초기화
             isVisited = new boolean[N][N];
-            // dfs
+            answer = 0;
+            for (int i = 0; i < N; i++) {
+                for (int j = 0; j < N; j++) {
+                    // 침수되지 않았고 방문하지 않았다면 탐색 실시
+                    if(arr[i][j] > height && !isVisited[i][j]){
+                        dfs(i,j);
+                        // 탐색이 끝났다면 이게 1개의 영역이다.
+                        answer++;
+                    }
+                }
+            }
+            result = Math.max(result, answer);
         }
 
         System.out.println(result);
