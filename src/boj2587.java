@@ -1,5 +1,5 @@
 import java.util.*;
-
+https://velog.io/@hanni66/JAVA-%EB%B0%B1%EC%A4%80-2587-%EB%8C%80%ED%91%9C%EA%B0%922
 public class baek_2587 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

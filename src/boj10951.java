@@ -1,5 +1,5 @@
 import java.util.Scanner;
- 
+ https://st-lab.tistory.com/40
 public class Main {
 	public static void main(String args[]){
 		
