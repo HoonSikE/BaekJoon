@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37c56c8f-c17e-4154-b27d-396a77f35d44" name="Changes" comment="" />
+    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2KKCw9PRCI407BoDr6JClfgEK4w" />
+  <component name="ProjectId" id="2KmBNkRMn4jRrrqkzKgrngXspi9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,19 +20,38 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/hanhoon/GitHub/BaekJoon",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="BOJ_Extra_1237_정ㅋ벅ㅋ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv0_Extra.BOJ_Extra_1237_정ㅋ벅ㅋ" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv0_Extra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BOJ_Extra_1237_정ㅋ벅ㅋ" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="37c56c8f-c17e-4154-b27d-396a77f35d44" name="Changes" comment="" />
-      <created>1673714122314</created>
+      <changelist id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="" />
+      <created>1674569839115</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1673714122314</updated>
-      <workItem from="1673714124260" duration="84000" />
+      <updated>1674569839115</updated>
+      <workItem from="1674569840147" duration="219000" />
     </task>
     <servers />
   </component>
