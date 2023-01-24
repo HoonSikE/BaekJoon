@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
  * @category 수학, 구현, 사칙연산
  * https://www.acmicpc.net/problem/10950
  */
-public class BOJ_B3_10950_A_B_3 {
+public class BOJ_B5_10950_A_B_3 {
 	public static void main(String[] args) throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = null;

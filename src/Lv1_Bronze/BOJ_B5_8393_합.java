@@ -5,17 +5,14 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 /**
  * @author HanHoon
- * @category 구현
- * https://www.acmicpc.net/problem/2741
+ * @category 수학, 구현
+ * https://www.acmicpc.net/problem/8393
  */
-public class BOJ_B3_2741_N_찍기 {
+public class BOJ_B5_8393_합 {
 	public static void main(String[] args) throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		StringBuilder str = new StringBuilder();
-		int N = Integer.parseInt(br.readLine());
-		for (int i = 1; i <= N; i++)
-			str.append(i+"\n");
-		System.out.println(str);
+		int n = Integer.parseInt(br.readLine());
+		System.out.println(n*(n+1)/2);
 		br.close();
 	}
 }
