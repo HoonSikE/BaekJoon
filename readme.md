@@ -71,6 +71,12 @@
         BOJ_B5_2557_Hello_World.java			2022-02-13 / Tistory
         BOJ_B5_2558_A_B_2.java			2022-04-09
         BOJ_B5_5337_웰컴.java				2022-04-10
+		BOJ_B5_A_B_7
+		BOJ_B5_A_B_8
+	    BOJ_B5_별_찍기_1
+ 	    BOJ_B5_별_찍기_2
+		BOJ_B5_영수증
+		BOJ_B5_킹_퀸_룩_비숍_나이트_폰
 
  - Lv2_Silver
  
