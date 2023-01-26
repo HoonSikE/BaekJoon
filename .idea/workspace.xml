@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj1009.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj10951.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj10952.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj2587.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +52,7 @@
       <recent name="Lv1_Bronze" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B1_더하기_사이클">
+  <component name="RunManager" selected="Application.BOJ_B2_분산처리">
     <configuration name="BOJ_B1_더하기_사이클" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_더하기_사이클" />
       <module name="BaekJoon" />
@@ -61,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B5_A_B_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_A_B_7" />
+    <configuration name="BOJ_B2_분산처리" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_분산처리" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B5_A_B_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_A_B_8" />
+    <configuration name="BOJ_B2_대표값2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_대표값2" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B5_별_찍기_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_별_찍기_1" />
+    <configuration name="BOJ_B5_A_B_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_A_B_4" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B5_별_찍기_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_별_찍기_2" />
+    <configuration name="BOJ_B5_A_B_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_A_B_5" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B2_분산처리" />
+        <item itemvalue="Application.BOJ_B2_대표값2" />
+        <item itemvalue="Application.BOJ_B5_A_B_4" />
+        <item itemvalue="Application.BOJ_B5_A_B_5" />
         <item itemvalue="Application.BOJ_B1_더하기_사이클" />
-        <item itemvalue="Application.BOJ_B5_별_찍기_2" />
-        <item itemvalue="Application.BOJ_B5_별_찍기_1" />
-        <item itemvalue="Application.BOJ_B5_A_B_8" />
-        <item itemvalue="Application.BOJ_B5_A_B_7" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +137,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674569839115</updated>
       <workItem from="1674569840147" duration="622000" />
-      <workItem from="1674570474539" duration="11316000" />
+      <workItem from="1674570474539" duration="16507000" />
     </task>
     <servers />
   </component>
