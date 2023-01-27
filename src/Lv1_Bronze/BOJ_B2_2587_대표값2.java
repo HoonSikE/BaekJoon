@@ -7,7 +7,7 @@ import java.util.*;
  * @category 수학, 구현, 정렬, 사칙연산
  * https://www.acmicpc.net/problem/2587
  */
-public class BOJ_B2_대표값2 {
+public class BOJ_B2_2587_대표값2 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = null;

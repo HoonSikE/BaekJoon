@@ -8,7 +8,7 @@ import java.util.*;
  * @category 수학, 구현, 사칙연산
  * https://www.acmicpc.net/problem/10951
  */
-public class BOJ_B5_A_B_4 {
+public class BOJ_B5_10951_A_B_4 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = null;

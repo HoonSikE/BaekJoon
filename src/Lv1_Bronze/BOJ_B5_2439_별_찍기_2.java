@@ -6,7 +6,7 @@ import java.io.*;
  * @category 구현
  * https://www.acmicpc.net/problem/2439
  */
-public class BOJ_B5_별_찍기_2 {
+public class BOJ_B5_2439_별_찍기_2 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder str = new StringBuilder();

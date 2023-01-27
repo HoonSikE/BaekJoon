@@ -7,7 +7,7 @@ import java.util.*;
  * @category 수학, 구현, 사칙연산
  * https://www.acmicpc.net/problem/25304
  */
-public class BOJ_B5_영수증 {
+public class BOJ_B5_25304_영수증 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = null;

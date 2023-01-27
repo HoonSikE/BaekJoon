@@ -8,7 +8,7 @@ import java.util.*;
  * @category 수학, 구현
  * https://www.acmicpc.net/problem/1009
  */
-public class BOJ_B2_분산처리 {
+public class BOJ_B2_1009_분산처리 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = null;

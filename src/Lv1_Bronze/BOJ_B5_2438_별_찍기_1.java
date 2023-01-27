@@ -1,13 +1,13 @@
 package Lv1_Bronze;
 
 import java.io.*;
-import java.util.*;
+
 /**
  * @author HanHoon
  * @category 구현
  * https://www.acmicpc.net/problem/2438
  */
-public class BOJ_B5_별_찍기_1 {
+public class BOJ_B5_2438_별_찍기_1 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder str = new StringBuilder();

@@ -1,13 +1,13 @@
 package Lv1_Bronze;
 
 import java.io.*;
-import java.util.*;
+
 /**
  * @author HanHoon
  * @category 수학, 구현
  * https://www.acmicpc.net/problem/3003
  */
-public class BOJ_B1_더하기_사이클 {
+public class BOJ_B1_3003_더하기_사이클 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder str = new StringBuilder();
