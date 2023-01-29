@@ -7,6 +7,12 @@
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B1_1547_평균.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B1_1546_평균.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj10757.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj11654.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj1546.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj15596.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B2_15596_정수_N개의_합.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj4344.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +54,9 @@
       <recent name="Lv1_Bronze" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_10818_최소_최대">
-    <configuration name="BOJ_B3_2562_최댓값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_2562_최댓값" />
+  <component name="RunManager" selected="Application.BOJ_B5_11654_아스키_코드">
+    <configuration name="BOJ_B1_1546_평균" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_1546_평균" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +68,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B5_10809_알파벳_찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_10809_알파벳_찾기" />
+    <configuration name="BOJ_B1_4344_평균은_넘겠지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_4344_평균은_넘겠지" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_B5_10757_큰_수_A_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_10757_큰_수_A_B" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -88,21 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B5_10871_X보다_작은_수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_10871_X보다_작은_수" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_B5_5597_과제_안_내신_분" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_5597_과제_안_내신_분" />
+    <configuration name="BOJ_B5_11654_아스키_코드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_11654_아스키_코드" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_11654_아스키_코드" />
+        <item itemvalue="Application.BOJ_B5_10757_큰_수_A_B" />
+        <item itemvalue="Application.BOJ_B1_4344_평균은_넘겠지" />
+        <item itemvalue="Application.BOJ_B1_1546_평균" />
         <item itemvalue="Application.BOJ_B5_10818_최소_최대" />
-        <item itemvalue="Application.BOJ_B3_2562_최댓값" />
-        <item itemvalue="Application.BOJ_B5_5597_과제_안_내신_분" />
-        <item itemvalue="Application.BOJ_B5_10871_X보다_작은_수" />
-        <item itemvalue="Application.BOJ_B5_10809_알파벳_찾기" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +140,7 @@
       <updated>1674569839115</updated>
       <workItem from="1674569840147" duration="622000" />
       <workItem from="1674570474539" duration="18506000" />
-      <workItem from="1674756520124" duration="6232000" />
+      <workItem from="1674756520124" duration="11312000" />
     </task>
     <servers />
   </component>
