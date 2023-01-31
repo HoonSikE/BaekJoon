@@ -6,6 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B4_11720_숫자의_합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B4_11720_숫자의_합.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj1047.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj10807.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj10818.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj10871.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj11720.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj1712.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj25305.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj2562.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj2566.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj2738.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj2750.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +57,15 @@
       <recent name="$PROJECT_DIR$/src/Lv1_Bronze" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-      <recent name="Lv2_Silver" />
       <recent name="Lv1_Bronze" />
+      <recent name="" />
+      <recent name="Lv3_Gold" />
+      <recent name="Lv2_Silver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S4_1065_한수">
-    <configuration name="BOJ_B1_4344_평균은_넘겠지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_4344_평균은_넘겠지" />
+  <component name="RunManager" selected="Application.BOJ_B3_2566_최댓값">
+    <configuration name="BOJ_B2_1712_손익분기점" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1712_손익분기점" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B5_10757_큰_수_A_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_10757_큰_수_A_B" />
+    <configuration name="BOJ_B2_25305_커트라인" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_25305_커트라인" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B5_11654_아스키_코드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_11654_아스키_코드" />
+    <configuration name="BOJ_B2_2750_수_정렬하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_2750_수_정렬하기" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -89,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_S4_1065_한수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S4_1065_한수" />
+    <configuration name="BOJ_B3_2566_최댓값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_2566_최댓값" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="PATTERN" value="Lv1_Bronze.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_S5_셀프_넘버" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S5_셀프_넘버" />
+    <configuration name="BOJ_B5_2738_행렬_덧셈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_2738_행렬_덧셈" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="PATTERN" value="Lv1_Bronze.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ_S4_1065_한수" />
-        <item itemvalue="Application.BOJ_S5_셀프_넘버" />
-        <item itemvalue="Application.BOJ_B5_11654_아스키_코드" />
-        <item itemvalue="Application.BOJ_B5_10757_큰_수_A_B" />
-        <item itemvalue="Application.BOJ_B1_4344_평균은_넘겠지" />
+        <item itemvalue="Application.BOJ_B3_2566_최댓값" />
+        <item itemvalue="Application.BOJ_B2_1712_손익분기점" />
+        <item itemvalue="Application.BOJ_B2_25305_커트라인" />
+        <item itemvalue="Application.BOJ_B5_2738_행렬_덧셈" />
+        <item itemvalue="Application.BOJ_B2_2750_수_정렬하기" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +149,7 @@
       <updated>1674569839115</updated>
       <workItem from="1674569840147" duration="622000" />
       <workItem from="1674570474539" duration="18506000" />
-      <workItem from="1674756520124" duration="15141000" />
+      <workItem from="1674756520124" duration="22439000" />
     </task>
     <servers />
   </component>
