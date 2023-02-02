@@ -17,9 +17,24 @@ public class BOJ_B2_5622_다이얼 {
         int result = 0;
 
         for (int i = 0; i < alpha.length(); i++){
-            if(alpha.charAt(i) < 'P'){
-                
-            }
+            char tmp = alpha.charAt(i);
+
+            if('A' <= tmp && tmp <= 'C')
+                result += 2 + 1;
+            else if('D' <= tmp && tmp <= 'F')
+                result += 2 + 2;
+            else if('G' <= tmp && tmp <= 'I')
+                result += 2 + 3;
+            else if('J' <= tmp && tmp <= 'L')
+                result += 2 + 4;
+            else if('M' <= tmp && tmp <= 'O')
+                result += 2 + 5;
+            else if('P' <= tmp && tmp <= 'S')
+                result += 2 + 6;
+            else if('T' <= tmp && tmp <= 'V')
+                result += 2 + 7;
+            else if('W' <= tmp && tmp <= 'Z')
+                result += 2 + 8;
         }
 
         str.append(result);

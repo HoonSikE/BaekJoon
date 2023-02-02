@@ -1,5 +1,14 @@
 import java.io.*;
 import java.util.*;
+
+class Pair{
+    int y;
+    int x;
+    public Pair(int y, int x){
+        this.y = y;
+        this.x = x;
+    }
+}
 public class Test {
     static int w, h;
     static int[][] map;
@@ -19,11 +28,12 @@ public class Test {
             int tmpX = x + dRow[i];
 
             // 범위 초과 확인
-            if(tmpY < 0 || tmpY > w || tmpX < 0 || tmpX > h)
+            if(tmpY < 0 || tmpY >= h || tmpX < 0 || tmpX >= w)
                 break;
 
             // 땅이 존재하고 방문하지 않않았다면 깊이 탐색 진행
-//            if(map[tmpY])
+            if(map[tmpY][tmpX] == 1 && !isVisit[tmpY][tmpX])
+                dfs(tmpY, tmpX);
         }
     }
 
@@ -40,8 +50,8 @@ public class Test {
             if(w==0&&h==0)
                 break;
 
-            map = new int[w][h];
-            isVisit = new boolean[w][h];
+            map = new int[h][w];
+            isVisit = new boolean[h][w];
             int cnt = 0;
 
             for(int i = 0; i < h; i++){
