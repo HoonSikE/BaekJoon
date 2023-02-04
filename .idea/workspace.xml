@@ -7,6 +7,7 @@
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv3_Gold/BOJ_G5_2251_물통.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv3_Gold/BOJ_G5_2251_물통.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,28 +46,15 @@
       <recent name="$PROJECT_DIR$/src/Lv1_Bronze" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Lv3_Gold" />
       <recent name="Lv2_Silver" />
       <recent name="Lv1_Bronze" />
+      <recent name="Lv3_Gold" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S5_2751_수_정렬하기_2">
-    <configuration name="BOJ_B1_10989_수_정렬하기_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_10989_수_정렬하기_3" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_B2_5622_다이얼" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_5622_다이얼" />
+  <component name="RunManager" selected="Application.BOJ_S5_1193_분수찾기">
+    <configuration name="BOJ_B2_2292_벌집" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_2292_벌집" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -80,6 +68,19 @@
     </configuration>
     <configuration name="BOJ_S2_4963_섬의_개수_DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S2_4963_섬의_개수_DFS" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_S5_1193_분수찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S5_1193_분수찾기" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_S5_1193_분수찾기" />
+        <item itemvalue="Application.BOJ_B2_2292_벌집" />
         <item itemvalue="Application.BOJ_S5_2751_수_정렬하기_2" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.BOJ_S2_4963_섬의_개수_DFS" />
-        <item itemvalue="Application.BOJ_B2_5622_다이얼" />
-        <item itemvalue="Application.BOJ_B1_10989_수_정렬하기_3" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +132,7 @@
       <updated>1674569839115</updated>
       <workItem from="1674569840147" duration="622000" />
       <workItem from="1674570474539" duration="18506000" />
-      <workItem from="1674756520124" duration="36530000" />
+      <workItem from="1674756520124" duration="43836000" />
     </task>
     <servers />
   </component>
