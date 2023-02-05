@@ -1,9 +1,7 @@
 package Lv1_Bronze;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 
 /**
  * @author HanHoon
@@ -23,18 +21,12 @@ public class BOJ_B1_2869_달팽이는_올라가고_싶다 {
         // V: 높이가 V미터 나무막대.
         int V = Integer.parseInt(st.nextToken());
 
-        int cnt = 0;
-        int height = 0;
+        int day = (V-B)/(A-B);
 
-        while(true){
-            height += A;
-            cnt++;
-            if(height >= V)
-                break;
-            height -= B;
-        }
+        if((V-B)%(A-B)!=0)
+            day++;
 
-        str.append(cnt);
+        str.append(day);
 
         System.out.print(str);
         br.close();
