@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class BOJ_B3_10250_ACM_호텔 {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
