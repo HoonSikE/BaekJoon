@@ -22,7 +22,7 @@ public class BOJ_B1_2775_부녀회장이_될테야 {
             int n = Integer.parseInt(br.readLine());
         }
 
-        str.append("");ㄱ
+        str.append("");
 
         System.out.print(str);
         br.close();
