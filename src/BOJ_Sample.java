@@ -5,7 +5,7 @@ import java.util.StringTokenizer;
 
 /**
  * @author HanHoon
- * @category 수학, 구현, 사칙연산
+ * @category 수학
  * https://www.acmicpc.net/problem/3003
  */
 public class BOJ_Sample {
