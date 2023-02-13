@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S2_9020_골드바흐의_추측.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S2_9020_골드바흐의_추측.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B1_2775_부녀회장이_될테야.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B1_2775_부녀회장이_될테야.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +51,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S5_1978_소수_찾기">
-    <configuration name="BOJ_B1_2869_달팽이는_올라가고_싶다" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_2869_달팽이는_올라가고_싶다" />
+  <component name="RunManager" selected="Application.BOJ_B1_2775_부녀회장이_될테야">
+    <configuration name="BOJ_B1_2775_부녀회장이_될테야" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_2775_부녀회장이_될테야" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B2_2292_벌집" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_2292_벌집" />
+    <configuration name="BOJ_B1_2869_달팽이는_올라가고_싶다" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_2869_달팽이는_올라가고_싶다" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B1_2775_부녀회장이_될테야" />
         <item itemvalue="Application.BOJ_S5_1978_소수_찾기" />
         <item itemvalue="Application.BOJ_S5_2581_소수" />
         <item itemvalue="Application.BOJ_B1_2869_달팽이는_올라가고_싶다" />
         <item itemvalue="Application.BOJ_S5_1193_분수찾기" />
-        <item itemvalue="Application.BOJ_B2_2292_벌집" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +138,7 @@
       <workItem from="1674569840147" duration="622000" />
       <workItem from="1674570474539" duration="18506000" />
       <workItem from="1674756520124" duration="50081000" />
-      <workItem from="1675858470806" duration="7837000" />
+      <workItem from="1675858470806" duration="12458000" />
     </task>
     <servers />
   </component>
