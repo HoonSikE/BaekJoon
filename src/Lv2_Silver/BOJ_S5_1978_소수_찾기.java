@@ -2,7 +2,7 @@ package Lv2_Silver;
 
 import java.io.*;
 import java.util.*;
-/**
+/**에
  * @author HanHoon
  * @category 수학, 정수론, 소수 판정, 에라토스테네스의 체
  * https://www.acmicpc.net/problem/1978
