@@ -17,22 +17,20 @@ public class BOJ_B3_10250_ACM_호텔 {
         // 테스트 케이스 개수 T
         int T = Integer.parseInt(br.readLine());
 
-        // k층 n호에는 몇명이 살고 있는지?
-        for (int i = 1; i <= T; i++){
+        // H: 층 수, W: 각 층의 방 수, N: 몇 번째 손님
+        for (int i = 0; i < T; i++){
+            st = new StringTokenizer(br.readLine());
             int H = Integer.parseInt(st.nextToken());
             int W = Integer.parseInt(st.nextToken());
             int N = Integer.parseInt(st.nextToken());
-            str.append("");
+
+            if(N%H == 0)
+                str.append(H*100 + N/H).append("\n");
+            else
+                str.append(N%H*100 + N/H + 1).append("\n");
         }
 
         System.out.print(str);
         br.close();
     }
 }
-
-//            if(N % H == 0) {
-//                System.out.println((H * 100) + (N / H));
-//
-//            } else {
-//                System.out.println(((N % H) * 100) + ((N / H) + 1));
-//            }
