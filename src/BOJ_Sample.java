@@ -17,9 +17,9 @@ public class BOJ_Sample {
         // 테스트 케이스 개수 T
         int T = Integer.parseInt(br.readLine());
 
-        for (int i = 1; i <= T; i++){
+        for (int t = 1; t <= T; t++){
             st = new StringTokenizer(br.readLine());
-            str.append("Case #").append(i).append(": ").append(Integer.parseInt(st.nextToken()) + Integer.parseInt(st.nextToken())).append("\n");
+            str.append("Case #").append(t).append(": ").append(Integer.parseInt(st.nextToken()) + Integer.parseInt(st.nextToken())).append("\n");
         }
         System.out.print(str);
         br.close();
