@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S5_11650_좌표_정렬하기 (3)">
+  <component name="RunManager" selected="Application.BOJ_S3_2108_통계학">
+    <configuration name="BOJ_S3_2108_통계학" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S3_2108_통계학" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BOJ_S5_11650_좌표_정렬하기 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S5_11650_좌표_정렬하기" />
       <module name="BaekJoon" />
@@ -103,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_S5_11651_좌표_정렬하기_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S5_11651_좌표_정렬하기_2" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2_Silver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_S3_2108_통계학" />
         <item itemvalue="Application.BOJ_S5_11650_좌표_정렬하기 (3)" />
         <item itemvalue="Application.BOJ_S5_11650_좌표_정렬하기 (2)" />
         <item itemvalue="Application.BOJ_S5_11650_좌표_정렬하기 (1)" />
         <item itemvalue="Application.BOJ_S5_11650_좌표_정렬하기" />
-        <item itemvalue="Application.BOJ_S5_11651_좌표_정렬하기_2" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +139,7 @@
       <workItem from="1674570474539" duration="18506000" />
       <workItem from="1674756520124" duration="50081000" />
       <workItem from="1675858470806" duration="18852000" />
-      <workItem from="1676369447960" duration="6704000" />
+      <workItem from="1676369447960" duration="10712000" />
     </task>
     <servers />
   </component>
