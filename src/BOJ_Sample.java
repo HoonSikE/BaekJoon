@@ -1,12 +1,9 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
-
+import java.io.*;
+import java.util.*;
 /**
  * @author HanHoon
- * @category 수학
- * https://www.acmicpc.net/problem/3003
+ * @category .
+ * https://www.acmicpc.net/problem/.
  */
 public class BOJ_Sample {
     public static void main(String[] args) throws IOException {
@@ -14,12 +11,13 @@ public class BOJ_Sample {
         StringTokenizer st = null;
         StringBuilder str = new StringBuilder();
 
-        // 테스트 케이스 개수 T
-        int T = Integer.parseInt(br.readLine());
+        // N
+        int N = Integer.parseInt(br.readLine());
 
-        for (int t = 1; t <= T; t++){
+        for (int n = 0; n < N; n++){
             st = new StringTokenizer(br.readLine());
-            str.append("Case #").append(t).append(": ").append(Integer.parseInt(st.nextToken()) + Integer.parseInt(st.nextToken())).append("\n");
+            Integer.parseInt(st.nextToken());
+            Integer.parseInt(br.readLine());
         }
         System.out.print(str);
         br.close();
