@@ -29,7 +29,7 @@ public class BOJ_G5_2015_수들의_합_4 {
 				result++;
 
 			if(map.containsKey(arr[i] - K))
-				result += map.get(arr[i] -K);
+				result += map.get(arr[i] - K);
 
 			if(!map.containsKey(arr[i]))
 				map.put(arr[i], 1l);
