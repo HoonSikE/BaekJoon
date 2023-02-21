@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv3_Gold/BOJ_G5_2015_수들의_합_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv3_Gold/BOJ_G5_2015_수들의_합_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +45,26 @@
       <recent name="$PROJECT_DIR$/src/Lv1_Bronze" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Lv2_Silver" />
       <recent name="Lv1_Bronze" />
+      <recent name="Lv2_Silver" />
       <recent name="Lv3_Gold" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_G5_2015_수들의_합_4">
+  <component name="RunManager" selected="Application.BOJ_B5_11382_꼬마_정민">
+    <configuration name="BOJ_B5_11382_꼬마_정민" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_11382_꼬마_정민" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BOJ_G5_2015_수들의_합_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv3_Gold.BOJ_G5_2015_수들의_합_4" />
       <module name="BaekJoon" />
@@ -104,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_S5_11650_좌표_정렬하기 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S5_11650_좌표_정렬하기" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2_Silver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_11382_꼬마_정민" />
         <item itemvalue="Application.BOJ_G5_2015_수들의_합_4" />
         <item itemvalue="Application.BOJ_G5_2251_물통" />
         <item itemvalue="Application.BOJ_S2_18870_좌표_압축" />
         <item itemvalue="Application.BOJ_S3_2108_통계학" />
-        <item itemvalue="Application.BOJ_S5_11650_좌표_정렬하기 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +139,7 @@
       <workItem from="1674570474539" duration="18506000" />
       <workItem from="1674756520124" duration="50081000" />
       <workItem from="1675858470806" duration="18852000" />
-      <workItem from="1676369447960" duration="22228000" />
+      <workItem from="1676369447960" duration="23784000" />
     </task>
     <servers />
   </component>
