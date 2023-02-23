@@ -6,7 +6,7 @@ import java.io.*;
  * @category 수학, 구현, 브루트포스 알고리즘
  * https://www.acmicpc.net/problem/4673
  */
-public class BOJ_S5_셀프_넘버 {
+public class BOJ_S5_4673_셀프_넘버 {
     public static int d(int n){
         int sum = n;
         while(n > 0){
