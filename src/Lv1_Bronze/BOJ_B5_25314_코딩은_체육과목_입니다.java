@@ -1,10 +1,6 @@
 package Lv1_Bronze;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
-
+import java.io.*;
 /**
  * @author HanHoon
  * @category 구현
@@ -13,17 +9,19 @@ import java.util.StringTokenizer;
 public class BOJ_B5_25314_코딩은_체육과목_입니다 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = null;
         StringBuilder str = new StringBuilder();
 
         // N
         int N = Integer.parseInt(br.readLine());
 
-        for (int n = 0; n < N; n++){
-            st = new StringTokenizer(br.readLine());
-            Integer.parseInt(st.nextToken());
-            Integer.parseInt(br.readLine());
-        }
+        for (int n = 0; n < N/4; n++)
+            str.append("long ");
+
+        if(N%4 ==0)
+            str.append("int");
+        else
+            str.append("long int");
+
         System.out.print(str);
         br.close();
     }

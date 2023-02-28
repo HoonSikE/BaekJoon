@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B5_2743_단어_길이_재기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B5_2743_단어_길이_재기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B5_25314_코딩은_체육과목_입니다.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B5_25314_코딩은_체육과목_입니다.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_2743_단어_길이_재기">
+  <component name="RunManager" selected="Application.BOJ_B5_25314_코딩은_체육과목_입니다">
     <configuration name="BOJ_B2_10811_바구니_뒤집기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_10811_바구니_뒤집기" />
       <module name="BaekJoon" />
@@ -79,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B5_11382_꼬마_정민" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_11382_꼬마_정민" />
+    <configuration name="BOJ_B5_25314_코딩은_체육과목_입니다" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_25314_코딩은_체육과목_입니다" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_25314_코딩은_체육과목_입니다" />
         <item itemvalue="Application.BOJ_B5_2743_단어_길이_재기" />
         <item itemvalue="Application.BOJ_B5_9086_문자열" />
         <item itemvalue="Application.BOJ_B2_10811_바구니_뒤집기" />
         <item itemvalue="Application.BOJ_B2_10813_공_바꾸기" />
-        <item itemvalue="Application.BOJ_B5_11382_꼬마_정민" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +139,7 @@
       <workItem from="1674570474539" duration="18506000" />
       <workItem from="1674756520124" duration="50081000" />
       <workItem from="1675858470806" duration="18852000" />
-      <workItem from="1676369447960" duration="31779000" />
+      <workItem from="1676369447960" duration="32091000" />
     </task>
     <servers />
   </component>
