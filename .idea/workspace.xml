@@ -50,9 +50,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_11718_그대로_출력하기">
-    <configuration name="BOJ_B2_10811_바구니_뒤집기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_10811_바구니_뒤집기" />
+  <component name="RunManager" selected="Application.BOJ_B1_10798_세로읽기">
+    <configuration name="BOJ_B1_10798_세로읽기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_10798_세로읽기" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B1_10798_세로읽기" />
         <item itemvalue="Application.BOJ_B5_11718_그대로_출력하기" />
         <item itemvalue="Application.BOJ_B5_25314_코딩은_체육과목_입니다" />
         <item itemvalue="Application.BOJ_B5_2743_단어_길이_재기" />
         <item itemvalue="Application.BOJ_B5_9086_문자열" />
-        <item itemvalue="Application.BOJ_B2_10811_바구니_뒤집기" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +138,7 @@
       <workItem from="1674570474539" duration="18506000" />
       <workItem from="1674756520124" duration="50081000" />
       <workItem from="1675858470806" duration="18852000" />
-      <workItem from="1676369447960" duration="36466000" />
+      <workItem from="1676369447960" duration="37699000" />
     </task>
     <servers />
   </component>
