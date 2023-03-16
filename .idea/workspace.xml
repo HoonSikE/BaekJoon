@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B5_10872_팩토리얼.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B5_10872_팩토리얼.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B2_25501_재귀의_귀재.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B2_25501_재귀의_귀재.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +138,7 @@
       <workItem from="1674570474539" duration="18506000" />
       <workItem from="1674756520124" duration="50081000" />
       <workItem from="1675858470806" duration="18852000" />
-      <workItem from="1676369447960" duration="49666000" />
+      <workItem from="1676369447960" duration="50293000" />
     </task>
     <servers />
   </component>
