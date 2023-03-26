@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B3_1085_직사각형에서_탈출.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B3_1085_직사각형에서_탈출.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B3_15894_수학은_체육과목_입니다.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B3_15894_수학은_체육과목_입니다.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +139,7 @@
       <workItem from="1674570474539" duration="18506000" />
       <workItem from="1674756520124" duration="50081000" />
       <workItem from="1675858470806" duration="18852000" />
-      <workItem from="1676369447960" duration="56267000" />
+      <workItem from="1676369447960" duration="56920000" />
     </task>
     <servers />
   </component>
