@@ -51,9 +51,22 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B1_10798_세로읽기">
+  <component name="RunManager" selected="Application.BOJ_B3_9063_대지">
     <configuration name="BOJ_B1_10798_세로읽기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_10798_세로읽기" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_B3_9063_대지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_9063_대지" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -104,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B5_9086_문자열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_9086_문자열" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B3_9063_대지" />
         <item itemvalue="Application.BOJ_B1_10798_세로읽기" />
         <item itemvalue="Application.BOJ_B5_11718_그대로_출력하기" />
         <item itemvalue="Application.BOJ_B5_25314_코딩은_체육과목_입니다" />
         <item itemvalue="Application.BOJ_B5_2743_단어_길이_재기" />
-        <item itemvalue="Application.BOJ_B5_9086_문자열" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +139,7 @@
       <workItem from="1674570474539" duration="18506000" />
       <workItem from="1674756520124" duration="50081000" />
       <workItem from="1675858470806" duration="18852000" />
-      <workItem from="1676369447960" duration="57528000" />
+      <workItem from="1676369447960" duration="57831000" />
     </task>
     <servers />
   </component>
