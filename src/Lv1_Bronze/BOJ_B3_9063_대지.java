@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @author HanHoon
  * @category 수학, 구현, 기하학
- * https://www.acmicpc.net/problem/.
+ * https://www.acmicpc.net/problem/9063
  */
 public class BOJ_B3_9063_대지 {
     public static void main(String[] args) throws IOException {

@@ -1,29 +1,20 @@
 package Lv1_Bronze;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.io.*;
 
 /**
  * @author HanHoon
- * @category .
- * https://www.acmicpc.net/problem/.
+ * @category 수학, 사칙연산
+ * https://www.acmicpc.net/problem/15894
  */
 public class BOJ_B3_15894_수학은_체육과목_입니다 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = null;
         StringBuilder str = new StringBuilder();
 
-        // N
-        int N = Integer.parseInt(br.readLine());
+        // 상자를 잘 보면 위쪽에 올라간 실선들을 가장 밑칸의 상자들에 넣으면 딱 맞다.
+        str.append(Long.parseLong(br.readLine())*4);
 
-        for (int n = 0; n < N; n++){
-            st = new StringTokenizer(br.readLine());
-            Integer.parseInt(st.nextToken());
-            Integer.parseInt(br.readLine());
-        }
         System.out.print(str);
         br.close();
     }

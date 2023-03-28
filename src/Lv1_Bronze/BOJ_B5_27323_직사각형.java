@@ -1,30 +1,18 @@
 package Lv1_Bronze;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.io.*;
 
 /**
  * @author HanHoon
- * @category .
- * https://www.acmicpc.net/problem/.
+ * @category 수학, 기하학, 사칙연산
+ * https://www.acmicpc.net/problem/27323
  */
 public class BOJ_B5_27323_직사각형 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = null;
-        StringBuilder str = new StringBuilder();
 
-        // N
-        int N = Integer.parseInt(br.readLine());
+        System.out.println(Integer.parseInt(br.readLine()) * Integer.parseInt(br.readLine()));
 
-        for (int n = 0; n < N; n++){
-            st = new StringTokenizer(br.readLine());
-            Integer.parseInt(st.nextToken());
-            Integer.parseInt(br.readLine());
-        }
-        System.out.print(str);
         br.close();
     }
 }
