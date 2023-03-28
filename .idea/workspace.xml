@@ -65,7 +65,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S3_11478_서로_다른_문자열의_개수">
+  <component name="RunManager" selected="Application.BOJ_B5_27866_문자와_문자열">
     <configuration name="BOJ_B2_25501_재귀의_귀재" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_25501_재귀의_귀재" />
       <module name="BaekJoon" />
@@ -81,6 +81,19 @@
     </configuration>
     <configuration name="BOJ_B5_10872_팩토리얼" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_10872_팩토리얼" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_B5_27866_문자와_문자열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_27866_문자와_문자열" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -118,26 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_S4_1764_듣보잡" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S4_1764_듣보잡" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2_Silver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_27866_문자와_문자열" />
         <item itemvalue="Application.BOJ_S3_11478_서로_다른_문자열의_개수" />
         <item itemvalue="Application.BOJ_S4_1620_나는야_포켓몬_마스터_이다솜" />
         <item itemvalue="Application.BOJ_B5_10872_팩토리얼" />
         <item itemvalue="Application.BOJ_B2_25501_재귀의_귀재" />
-        <item itemvalue="Application.BOJ_S4_1764_듣보잡" />
       </list>
     </recent_temporary>
   </component>
