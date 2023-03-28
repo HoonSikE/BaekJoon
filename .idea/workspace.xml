@@ -6,13 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B1_9506_약수들의_합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B1_9506_약수들의_합.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B2_10810_공_넣기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B2_10810_공_넣기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B2_10811_바구니_뒤집기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B2_10811_바구니_뒤집기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B3_2444_별_찍기_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B3_2444_별_찍기_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B3_2501_약수_구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B3_2501_약수_구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S4_1269_대칭_차집합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S4_1269_대칭_차집합.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S5_10815_숫자_카드.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S5_10815_숫자_카드.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B5_24262_알고리즘_수업_알고리즘의_수행_시간_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B5_24262_알고리즘_수업_알고리즘의_수행_시간_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B5_24263_알고리즘_수업_알고리즘의_수행_시간_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B4_24263_알고리즘_수업_알고리즘의_수행_시간_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B5_24264_알고리즘_수업_알고리즘의_수행_시간_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B3_24264_알고리즘_수업_알고리즘의_수행_시간_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B5_24265_알고리즘_수업_알고리즘의_수행_시간_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B3_24265_알고리즘_수업_알고리즘의_수행_시간_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B5_24266_알고리즘_수업_알고리즘의_수행_시간_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B3_24266_알고리즘_수업_알고리즘의_수행_시간_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B5_24267_알고리즘_수업_알고리즘의_수행_시간_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B2_24267_알고리즘_수업_알고리즘의_수행_시간_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,20 +56,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B2_10811_바구니_뒤집기">
-    <configuration name="BOJ_B1_9506_약수들의_합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_9506_약수들의_합" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_B2_24267_알고리즘_수업_알고리즘의_수행_시간_6">
     <configuration name="BOJ_B2_10810_공_넣기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_10810_공_넣기" />
       <module name="BaekJoon" />
@@ -97,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B3_2444_별_찍기_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_2444_별_찍기_7" />
+    <configuration name="BOJ_B2_24267_알고리즘_수업_알고리즘의_수행_시간_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_24267_알고리즘_수업_알고리즘의_수행_시간_6" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +96,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B3_2501_약수_구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_2501_약수_구하기" />
+    <configuration name="BOJ_B3_24264_알고리즘_수업_알고리즘의_수행_시간_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_24264_알고리즘_수업_알고리즘의_수행_시간_3" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_B3_24266_알고리즘_수업_알고리즘의_수행_시간_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_24266_알고리즘_수업_알고리즘의_수행_시간_5" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B2_24267_알고리즘_수업_알고리즘의_수행_시간_6" />
+        <item itemvalue="Application.BOJ_B3_24266_알고리즘_수업_알고리즘의_수행_시간_5" />
+        <item itemvalue="Application.BOJ_B3_24264_알고리즘_수업_알고리즘의_수행_시간_3" />
         <item itemvalue="Application.BOJ_B2_10811_바구니_뒤집기" />
         <item itemvalue="Application.BOJ_B2_10810_공_넣기" />
-        <item itemvalue="Application.BOJ_B1_9506_약수들의_합" />
-        <item itemvalue="Application.BOJ_B3_2444_별_찍기_7" />
-        <item itemvalue="Application.BOJ_B3_2501_약수_구하기" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +144,7 @@
       <workItem from="1674570474539" duration="18506000" />
       <workItem from="1674756520124" duration="50081000" />
       <workItem from="1675858470806" duration="18852000" />
-      <workItem from="1676369447960" duration="75360000" />
+      <workItem from="1676369447960" duration="77881000" />
     </task>
     <servers />
   </component>
