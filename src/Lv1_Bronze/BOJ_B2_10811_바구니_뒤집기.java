@@ -15,7 +15,7 @@ public class BOJ_B2_10811_바구니_뒤집기 {
 
         // N개의 바구니
         int N = Integer.parseInt(st.nextToken());
-        // M개의 바구니의 순서를 역순으로 만드는 방법
+        // M번의 바구니의 순서를 역순으로 만드는 방법
         int M = Integer.parseInt(st.nextToken());
 
         int[] arr = new int[N+1];
@@ -25,12 +25,15 @@ public class BOJ_B2_10811_바구니_뒤집기 {
 
         for (int n = 0; n < M; n++){
             st = new StringTokenizer(br.readLine());
-            int a = Integer.parseInt(st.nextToken());
-            int b = Integer.parseInt(st.nextToken());
+            int i = Integer.parseInt(st.nextToken());
+            int j = Integer.parseInt(st.nextToken());
 
-            int tmp = arr[a];
-            arr[a] = arr[b];
-            arr[b] = tmp;
+            // 앞뒤로 바꿔줌
+            while(i < j){
+                int tmp = arr[i];
+                arr[i++] = arr[j];
+                arr[j--] = tmp;
+            }
         }
 
         for(int i = 1; i <= N; i++)

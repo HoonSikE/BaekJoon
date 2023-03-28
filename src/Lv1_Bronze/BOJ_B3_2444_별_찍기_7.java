@@ -1,14 +1,12 @@
 package Lv1_Bronze;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 
 /**
  * @author HanHoon
- * @category .
- * https://www.acmicpc.net/problem/.
+ * @category 구현
+ * https://www.acmicpc.net/problem/2444
  */
 public class BOJ_B3_2444_별_찍기_7 {
     public static void main(String[] args) throws IOException {
@@ -19,10 +17,20 @@ public class BOJ_B3_2444_별_찍기_7 {
         // N
         int N = Integer.parseInt(br.readLine());
 
-        for (int n = 0; n < N; n++){
-            st = new StringTokenizer(br.readLine());
-            Integer.parseInt(st.nextToken());
-            Integer.parseInt(br.readLine());
+        for (int n = 1; n <= N; n++){
+            for (int i = 0; i < N-n; i++)
+                str.append(" ");
+            for (int j = 0; j < 2*n-1; j++)
+                str.append("*");
+            str.append("\n");
+        }
+
+        for (int n = N-1; n >= 0; n--){
+            for (int i = 0; i < N-n; i++)
+                str.append(" ");
+            for (int j = 0; j < 2*n-1; j++)
+                str.append("*");
+            str.append("\n");
         }
         System.out.print(str);
         br.close();
