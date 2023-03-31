@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 /**
  * @author HanHoon
- * @category .
+ * @category 수학, 사칙연산
  * https://www.acmicpc.net/problem/5086
  */
 public class BOJ_B3_5086_배수와_약수 {
