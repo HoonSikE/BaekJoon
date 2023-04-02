@@ -5,21 +5,26 @@ import java.util.*;
 
 /**
  * @author HanHoon
- * @category 자료 구조, 스택
- * https://www.acmicpc.net/problem/10828
+ * @category 자료 구조, 큐
+ * https://www.acmicpc.net/problem/18258
  *
-수
+ * stack 명령어
+ * push(), peek(), pop(), empty()
+ *
+ * queue 명령어
+ * add(), offer(), peek(), poll(), isEmpty(), get()
  */
-public class BOJ_S4_10828_스택 {
+public class BOJ_S4_18258_큐_2 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = null;
         StringBuilder str = new StringBuilder();
 
-        // N: 주여지는 명령 수
+        // N: 주어지는 명령의 수
         int N = Integer.parseInt(br.readLine());
 
-        Stack<Integer> stack = new Stack<>();
+        // Queue
+        LinkedList<Integer> queue = new LinkedList<>();
 
         for (int n = 0; n < N; n++){
             st = new StringTokenizer(br.readLine());
@@ -31,31 +36,38 @@ public class BOJ_S4_10828_스택 {
 
             switch(cmd){
                 case "push":
-                    stack.push(num);
+                    queue.offer(num);
                     break;
                 case "pop":
-                    if(stack.empty())
+                    if(queue.isEmpty())
                         str.append(-1).append("\n");
                     else
-                        str.append(stack.pop()).append("\n");
+                        str.append(queue.poll()).append("\n");
                     break;
                 case "size":
-                    str.append(stack.size()).append("\n");
+                    str.append(queue.size()).append("\n");
                     break;
                 case "empty":
-                    if(stack.empty())
+                    if(queue.isEmpty())
                         str.append(1).append("\n");
                     else
                         str.append(0).append("\n");
                     break;
-                case "top":
-                    if(stack.empty())
+                case "front":
+                    if(queue.isEmpty())
                         str.append(-1).append("\n");
                     else
-                        str.append(stack.peek()).append("\n");
+                        str.append(queue.get(0)).append("\n");
+                    break;
+                case "back":
+                    if(queue.isEmpty())
+                        str.append(-1).append("\n");
+                    else
+                        str.append(queue.get(queue.size()-1)).append("\n");
                     break;
             }
         }
+
         System.out.print(str);
         br.close();
     }
