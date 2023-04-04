@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv3_Gold/BOJ_G3_10986_나머지_합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv3_Gold/BOJ_G3_10986_나머지_합.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,19 +45,19 @@
       <recent name="$PROJECT_DIR$/src/Lv1_Bronze" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Lv3_Gold" />
       <recent name="Lv2_Silver" />
+      <recent name="Lv3_Gold" />
       <recent name="Lv1_Bronze" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S4_18258_큐_2">
-    <configuration name="BOJ_B3_5086_배수와_약수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_5086_배수와_약수" />
+  <component name="RunManager" selected="Application.BOJ_S1_16139_인간_컴퓨터_상호작용">
+    <configuration name="BOJ_G3_10986_나머지_합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv3_Gold.BOJ_G3_10986_나머지_합" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="PATTERN" value="Lv3_Gold.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_S3_1966_프린터_큐" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S3_1966_프린터_큐" />
+    <configuration name="BOJ_S1_16139_인간_컴퓨터_상호작용" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S1_16139_인간_컴퓨터_상호작용" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_S4_10828_스택" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S4_10828_스택" />
+    <configuration name="BOJ_S3_1966_프린터_큐" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S3_1966_프린터_큐" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_S1_16139_인간_컴퓨터_상호작용" />
+        <item itemvalue="Application.BOJ_G3_10986_나머지_합" />
         <item itemvalue="Application.BOJ_S4_18258_큐_2" />
         <item itemvalue="Application.BOJ_G5_25682_체스판_다시_칠하기_2" />
         <item itemvalue="Application.BOJ_S3_1966_프린터_큐" />
-        <item itemvalue="Application.BOJ_S4_10828_스택" />
-        <item itemvalue="Application.BOJ_B3_5086_배수와_약수" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,7 @@
       <workItem from="1680359891486" duration="217000" />
       <workItem from="1680360111098" duration="3493000" />
       <workItem from="1680393376925" duration="2658000" />
-      <workItem from="1680518933095" duration="52000" />
+      <workItem from="1680518933095" duration="7046000" />
     </task>
     <servers />
   </component>
