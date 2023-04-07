@@ -17,17 +17,32 @@ import java.util.*;
 public class BOJ_S5_11866_요세푸스_문제_0 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = null;
+        StringTokenizer st = new StringTokenizer(br.readLine());
         StringBuilder str = new StringBuilder();
 
-        // N
-        int N = Integer.parseInt(br.readLine());
+        // N: N명의 사람
+        int N = Integer.parseInt(st.nextToken());
+        // K 번째 사람 제거
+        int K = Integer.parseInt(st.nextToken());
 
-        for (int n = 0; n < N; n++){
-            st = new StringTokenizer(br.readLine());
-            Integer.parseInt(st.nextToken());
-            Integer.parseInt(br.readLine());
+        LinkedList<Integer> queue = new LinkedList<>();
+        for (int i = 1; i <= N; i++)
+            queue.offer(i);
+
+        str.append("<");
+
+        while(!queue.isEmpty()){
+            for(int i = 1; i < K; i++)
+                queue.offer(queue.poll());
+
+            str.append(queue.poll());
+
+            if(queue.size() > 0)
+                str.append(", ");
         }
+
+        str.append(">");
+
         System.out.print(str);
         br.close();
     }

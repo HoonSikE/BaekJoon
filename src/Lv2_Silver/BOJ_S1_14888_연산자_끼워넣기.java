@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @author HanHoon
  * @category 브루트포스 알고리즘, 백트래킹
- * https://www.acmicpc.net/problem/.
+ * https://www.acmicpc.net/problem/14888
  */
 public class BOJ_S1_14888_연산자_끼워넣기 {
     static int N;
@@ -53,7 +53,7 @@ public class BOJ_S1_14888_연산자_끼워넣기 {
 
         st = new StringTokenizer(br.readLine());
         for (int n = 0; n < N; n++)
-            Integer.parseInt(st.nextToken());
+            arr[n] = Integer.parseInt(st.nextToken());
 
         // 덧셈, 뺼셈, 곱셈, 나눗셈의 개수
         operator = new int[4];
@@ -61,7 +61,7 @@ public class BOJ_S1_14888_연산자_끼워넣기 {
         for (int i = 0; i < 4; i++)
             operator[i] = Integer.parseInt(st.nextToken());
 
-        cal(0, 0);
+        cal(1, arr[0]);
 
         str.append(max).append("\n");
         str.append(min).append("\n");
