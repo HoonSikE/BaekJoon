@@ -19,19 +19,14 @@ public class BOJ_S1_16139_인간_컴퓨터_상호작용 {
         // q: 질문의 수
         int q = Integer.parseInt(br.readLine());
 
+        // 누적합 기록 배열
         int[][] dp = new int[S.length()+1]['z'-'a'+1];
+        // 누적 합 계산
         for(int i = 1; i <= S.length(); i++){
-            int cnt = dp[i-1][S.charAt(i-1)-'a'+1] + 1;
-            for (int n = i; n <= S.length(); n++) {
-                dp[n][S.charAt(i-1)-'a'+1] = cnt;
-            }
-        }
-
-        for (int i = 0; i < S.length()+1; i++) {
-            for (int j = 0; j < 'z'-'a'+1; j++) {
-                str.append(dp[i][j] + " ");
-            }
-            str.append("\n");
+            int cnt = dp[i-1][S.charAt(i-1)-'a'] + 1;
+            // 문자열 S의 길이는 200,000자 이하이므로 열마다 값을 초기화 하는 것 보다, 각 행마다 돌려주는 것이 유리하다.
+            for (int n = 0; n < 'z'-'a'+1; n++)
+                dp[i][n] = n == S.charAt(i-1)-'a' ? dp[i-1][n]+1 : dp[i-1][n];
         }
 
         for (int n = 0; n < q; n++){
@@ -40,7 +35,7 @@ public class BOJ_S1_16139_인간_컴퓨터_상호작용 {
             int l = Integer.parseInt(st.nextToken());
             int r = Integer.parseInt(st.nextToken());
 
-            str.append(dp[r][alpa-'a'+1] - dp[l][alpa-'a'+1]).append("\n");
+            str.append(dp[r+1][alpa-'a'] - dp[l][alpa-'a']).append("\n");
         }
         System.out.print(str);
         br.close();
