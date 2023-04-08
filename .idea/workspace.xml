@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S1_16139_인간_컴퓨터_상호작용.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S1_16139_인간_컴퓨터_상호작용.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,20 +50,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S1_16139_인간_컴퓨터_상호작용">
-    <configuration name="BOJ_G3_10986_나머지_합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv3_Gold.BOJ_G3_10986_나머지_합" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv3_Gold.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_S3_1021_회전하는_큐">
     <configuration name="BOJ_S1_14888_연산자_끼워넣기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S1_14888_연산자_끼워넣기" />
       <module name="BaekJoon" />
@@ -80,6 +66,19 @@
     </configuration>
     <configuration name="BOJ_S1_16139_인간_컴퓨터_상호작용" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S1_16139_인간_컴퓨터_상호작용" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_S3_1021_회전하는_큐" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S3_1021_회전하는_큐" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_S3_1021_회전하는_큐" />
         <item itemvalue="Application.BOJ_S1_16139_인간_컴퓨터_상호작용" />
         <item itemvalue="Application.BOJ_S4_10773_제로" />
         <item itemvalue="Application.BOJ_S1_14888_연산자_끼워넣기" />
         <item itemvalue="Application.BOJ_S5_11866_요세푸스_문제_0" />
-        <item itemvalue="Application.BOJ_G3_10986_나머지_합" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +146,7 @@
       <workItem from="1680359891486" duration="217000" />
       <workItem from="1680360111098" duration="3493000" />
       <workItem from="1680393376925" duration="2658000" />
-      <workItem from="1680518933095" duration="20959000" />
+      <workItem from="1680518933095" duration="24614000" />
     </task>
     <servers />
   </component>
