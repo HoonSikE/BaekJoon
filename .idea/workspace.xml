@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,19 +44,19 @@
       <recent name="$PROJECT_DIR$/src/Lv1_Bronze" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Lv2_Silver" />
       <recent name="Lv3_Gold" />
+      <recent name="Lv2_Silver" />
       <recent name="Lv1_Bronze" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S4_4949_균형잡힌_세상">
-    <configuration name="BOJ_S1_16139_인간_컴퓨터_상호작용" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S1_16139_인간_컴퓨터_상호작용" />
+  <component name="RunManager" selected="Application.BOJ_G5_5430_AC">
+    <configuration name="BOJ_G5_5430_AC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv3_Gold.BOJ_G5_5430_AC" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="PATTERN" value="Lv3_Gold.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_G5_5430_AC" />
         <item itemvalue="Application.BOJ_S4_4949_균형잡힌_세상" />
         <item itemvalue="Application.BOJ_S4_9012_괄호" />
         <item itemvalue="Application.BOJ_S4_10866_덱" />
         <item itemvalue="Application.BOJ_S3_1021_회전하는_큐" />
-        <item itemvalue="Application.BOJ_S1_16139_인간_컴퓨터_상호작용" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +150,8 @@
       <workItem from="1681033531378" duration="2886000" />
       <workItem from="1681087156785" duration="3438000" />
       <workItem from="1681112091502" duration="20000" />
-      <workItem from="1681190100804" duration="1841000" />
+      <workItem from="1681190100804" duration="5332000" />
+      <workItem from="1681261643028" duration="859000" />
     </task>
     <servers />
   </component>
