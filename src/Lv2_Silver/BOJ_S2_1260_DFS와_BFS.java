@@ -1,9 +1,7 @@
 package Lv2_Silver;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 /**
  * @author HanHoon
  * @category 그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색
