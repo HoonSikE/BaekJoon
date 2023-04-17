@@ -1,4 +1,4 @@
-package Lv2_Silver;
+package Lv1_Bronze;
 
 import java.io.*;
 import java.util.*;
@@ -8,7 +8,7 @@ import java.util.*;
  * @category .
  * https://www.acmicpc.net/problem/.
  */
-public class BOJ_S5_25206_너의_평점은 {
+public class BOJ_B3_2903_중앙_이동_알고리즘 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = null;
