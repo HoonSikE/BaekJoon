@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B3_2903_중앙_이동_알고리즘.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B3_2903_중앙_이동_알고리즘.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S5_25206_너의_평점은.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S5_25206_너의_평점은.java" afterDir="false" />
     </list>
@@ -51,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B2_10988_팰린드롬인지_확인하기">
+  <component name="RunManager" selected="Application.BOJ_B3_2903_중앙_이동_알고리즘">
     <configuration name="BOJ_B2_10812_바구니_순서_바꾸기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_10812_바구니_순서_바꾸기" />
       <module name="BaekJoon" />
@@ -78,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_G5_5430_AC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv3_Gold.BOJ_G5_5430_AC" />
+    <configuration name="BOJ_B3_2903_중앙_이동_알고리즘" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_2903_중앙_이동_알고리즘" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lv3_Gold.*" />
+          <option name="PATTERN" value="Lv1_Bronze.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_S4_4949_균형잡힌_세상" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S4_4949_균형잡힌_세상" />
+    <configuration name="BOJ_S5_25206_너의_평점은" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S5_25206_너의_평점은" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B3_2903_중앙_이동_알고리즘" />
+        <item itemvalue="Application.BOJ_S5_25206_너의_평점은" />
         <item itemvalue="Application.BOJ_B2_10988_팰린드롬인지_확인하기" />
         <item itemvalue="Application.BOJ_S1_1932_정수_삼각형" />
         <item itemvalue="Application.BOJ_B2_10812_바구니_순서_바꾸기" />
-        <item itemvalue="Application.BOJ_G5_5430_AC" />
-        <item itemvalue="Application.BOJ_S4_4949_균형잡힌_세상" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +157,7 @@
       <workItem from="1681261643028" duration="880000" />
       <workItem from="1681374979698" duration="10210000" />
       <workItem from="1681608941615" duration="132000" />
-      <workItem from="1681617749396" duration="1251000" />
+      <workItem from="1681617749396" duration="5174000" />
     </task>
     <servers />
   </component>
