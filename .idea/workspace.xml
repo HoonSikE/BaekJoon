@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,15 +45,15 @@
       <recent name="$PROJECT_DIR$/src/Lv1_Bronze" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Lv2_Silver" />
       <recent name="Lv1_Bronze" />
+      <recent name="Lv2_Silver" />
       <recent name="Lv3_Gold" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S4_24313_알고리즘_수업_점근적_표기_1">
-    <configuration name="BOJ_B2_10988_팰린드롬인지_확인하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_10988_팰린드롬인지_확인하기" />
+  <component name="RunManager" selected="Application.BOJ_B3_2720_세탁소_사장_동혁">
+    <configuration name="BOJ_B3_14215_세_막대" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_14215_세_막대" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B3_14215_세_막대" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_14215_세_막대" />
+    <configuration name="BOJ_B3_2720_세탁소_사장_동혁" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_2720_세탁소_사장_동혁" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B3_2720_세탁소_사장_동혁" />
         <item itemvalue="Application.BOJ_S4_24313_알고리즘_수업_점근적_표기_1" />
         <item itemvalue="Application.BOJ_B3_14215_세_막대" />
         <item itemvalue="Application.BOJ_B3_2903_중앙_이동_알고리즘" />
         <item itemvalue="Application.BOJ_S5_25206_너의_평점은" />
-        <item itemvalue="Application.BOJ_B2_10988_팰린드롬인지_확인하기" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +155,7 @@
       <workItem from="1681261643028" duration="880000" />
       <workItem from="1681374979698" duration="10210000" />
       <workItem from="1681608941615" duration="132000" />
-      <workItem from="1681617749396" duration="7417000" />
+      <workItem from="1681617749396" duration="9086000" />
     </task>
     <servers />
   </component>
