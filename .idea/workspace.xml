@@ -51,9 +51,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B2_2920_음계">
-    <configuration name="BOJ_B2_2920_음계" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_2920_음계" />
+  <component name="RunManager" selected="Application.BOJ_B1_1259_팰린드롬수">
+    <configuration name="BOJ_B1_1259_팰린드롬수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_1259_팰린드롬수" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B3_14215_세_막대" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_14215_세_막대" />
+    <configuration name="BOJ_B2_2920_음계" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_2920_음계" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B3_2903_중앙_이동_알고리즘" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_2903_중앙_이동_알고리즘" />
+    <configuration name="BOJ_B4_2742_기찍_N" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_2742_기찍_N" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B1_1259_팰린드롬수" />
+        <item itemvalue="Application.BOJ_B4_2742_기찍_N" />
         <item itemvalue="Application.BOJ_B2_2920_음계" />
         <item itemvalue="Application.BOJ_B3_2720_세탁소_사장_동혁" />
         <item itemvalue="Application.BOJ_S4_24313_알고리즘_수업_점근적_표기_1" />
-        <item itemvalue="Application.BOJ_B3_14215_세_막대" />
-        <item itemvalue="Application.BOJ_B3_2903_중앙_이동_알고리즘" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +155,7 @@
       <workItem from="1681261643028" duration="880000" />
       <workItem from="1681374979698" duration="10210000" />
       <workItem from="1681608941615" duration="132000" />
-      <workItem from="1681617749396" duration="10883000" />
+      <workItem from="1681617749396" duration="13437000" />
     </task>
     <servers />
   </component>
