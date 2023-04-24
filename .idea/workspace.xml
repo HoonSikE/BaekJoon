@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="" />
+    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B1_1259_팰린드롬수">
+  <component name="RunManager" selected="Application.BOJ_B5_2475_검증수">
     <configuration name="BOJ_B1_1259_팰린드롬수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_1259_팰린드롬수" />
       <module name="BaekJoon" />
@@ -101,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_S4_24313_알고리즘_수업_점근적_표기_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S4_24313_알고리즘_수업_점근적_표기_1" />
+    <configuration name="BOJ_B5_2475_검증수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_2475_검증수" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="PATTERN" value="Lv1_Bronze.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_2475_검증수" />
         <item itemvalue="Application.BOJ_B1_1259_팰린드롬수" />
         <item itemvalue="Application.BOJ_B4_2742_기찍_N" />
         <item itemvalue="Application.BOJ_B2_2920_음계" />
         <item itemvalue="Application.BOJ_B3_2720_세탁소_사장_동혁" />
-        <item itemvalue="Application.BOJ_S4_24313_알고리즘_수업_점근적_표기_1" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +155,8 @@
       <workItem from="1681261643028" duration="880000" />
       <workItem from="1681374979698" duration="10210000" />
       <workItem from="1681608941615" duration="132000" />
-      <workItem from="1681617749396" duration="14114000" />
+      <workItem from="1681617749396" duration="14840000" />
+      <workItem from="1682330892904" duration="342000" />
     </task>
     <servers />
   </component>
