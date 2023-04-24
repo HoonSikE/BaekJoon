@@ -51,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_2475_검증수">
+  <component name="RunManager" selected="Application.BOJ_B2_2577_숫자의_개수">
     <configuration name="BOJ_B1_1259_팰린드롬수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_1259_팰린드롬수" />
       <module name="BaekJoon" />
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B2_2920_음계" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_2920_음계" />
+    <configuration name="BOJ_B2_2577_숫자의_개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_2577_숫자의_개수" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B3_2720_세탁소_사장_동혁" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_2720_세탁소_사장_동혁" />
+    <configuration name="BOJ_B2_2920_음계" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_2920_음계" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B2_2577_숫자의_개수" />
         <item itemvalue="Application.BOJ_B5_2475_검증수" />
         <item itemvalue="Application.BOJ_B1_1259_팰린드롬수" />
         <item itemvalue="Application.BOJ_B4_2742_기찍_N" />
         <item itemvalue="Application.BOJ_B2_2920_음계" />
-        <item itemvalue="Application.BOJ_B3_2720_세탁소_사장_동혁" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +156,7 @@
       <workItem from="1681374979698" duration="10210000" />
       <workItem from="1681608941615" duration="132000" />
       <workItem from="1681617749396" duration="14840000" />
-      <workItem from="1682330892904" duration="342000" />
+      <workItem from="1682330892904" duration="1154000" />
     </task>
     <servers />
   </component>
