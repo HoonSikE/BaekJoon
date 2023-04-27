@@ -17,7 +17,21 @@ public class BOJ_B2_2745_진법_변환 {
         // N
         String N = st.nextToken();
         int B = Integer.parseInt(st.nextToken());
+        int idx = 1;
+        int result = 0;
 
+        for(int i = N.length()-1; i >= 0; i--){
+            char c = N.charAt(i);
+
+            if('A' <= c && c <= 'Z')
+                result += (c-'A'+10)*idx;
+            else
+                result += (c-'0')*idx;
+
+            idx *= B;
+        }
+
+        str.append(result);
 
         System.out.print(str);
         br.close();
