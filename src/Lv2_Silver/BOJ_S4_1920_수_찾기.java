@@ -7,8 +7,8 @@ import java.util.StringTokenizer;
 
 /**
  * @author HanHoon
- * @category .
- * https://www.acmicpc.net/problem/.
+ * @category d
+ * https://www.acmicpc.net/problem/1920
  */
 public class BOJ_S4_1920_수_찾기 {
     public static void main(String[] args) throws IOException {
