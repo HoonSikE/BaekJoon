@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S4_1920_수_찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S4_1920_수_찾기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S4_1920_수_찾기">
+  <component name="RunManager" selected="Application.BOJ_B3_5073_삼각형과_세_변">
     <configuration name="BOJ_B1_11005_진법_변환_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_11005_진법_변환_2" />
       <module name="BaekJoon" />
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B2_2577_숫자의_개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_2577_숫자의_개수" />
+    <configuration name="BOJ_B2_2745_진법_변환" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_2745_진법_변환" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B2_2745_진법_변환" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_2745_진법_변환" />
+    <configuration name="BOJ_B3_5073_삼각형과_세_변" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_5073_삼각형과_세_변" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B3_5073_삼각형과_세_변" />
         <item itemvalue="Application.BOJ_S4_1920_수_찾기" />
         <item itemvalue="Application.BOJ_B4_10101_삼각형_외우기" />
         <item itemvalue="Application.BOJ_B1_11005_진법_변환_2" />
         <item itemvalue="Application.BOJ_B2_2745_진법_변환" />
-        <item itemvalue="Application.BOJ_B2_2577_숫자의_개수" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +157,7 @@
       <workItem from="1681608941615" duration="132000" />
       <workItem from="1681617749396" duration="14840000" />
       <workItem from="1682330892904" duration="7966000" />
-      <workItem from="1682644968546" duration="382000" />
+      <workItem from="1682644968546" duration="3603000" />
     </task>
     <servers />
   </component>
