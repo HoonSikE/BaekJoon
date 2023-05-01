@@ -1,14 +1,13 @@
 package Lv2_Silver;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.math.*;
+import java.util.*;
 
 /**
  * @author HanHoon
- * @category .
- * https://www.acmicpc.net/problem/.
+ * @category 수학, 브루트포스 알고리즘, 정수론, 소수 판정
+ * https://www.acmicpc.net/problem/4134
  */
 public class BOJ_S4_4134_다음_소수 {
     public static void main(String[] args) throws IOException {
@@ -16,14 +15,26 @@ public class BOJ_S4_4134_다음_소수 {
         StringTokenizer st = null;
         StringBuilder str = new StringBuilder();
 
-        // N
-        int N = Integer.parseInt(br.readLine());
+        // T
+        int T = Integer.parseInt(br.readLine());
 
-        for (int n = 0; n < N; n++){
-            st = new StringTokenizer(br.readLine());
-            Integer.parseInt(st.nextToken());
-            Integer.parseInt(br.readLine());
+        while(T --> 0){
+            String s = br.readLine();
+            /**
+             * 입력이 40억으로 매우 큰 값을 사용한다.
+             * BigInteger: 매우 큰 수를 사용할 때 사용한다.
+             * isProbablePrime(int certainty) : 보통 certainty=10으로 사용 -> 소수인게 거의 확실
+             * nextProbablePrime() : 다음 소수를 찾는다.
+             */
+            BigInteger prime = new BigInteger(s);
+            long num = Long.parseLong(s);
+
+            if(prime.isProbablePrime(10))
+                str.append(num).append("\n");
+            else
+                str.append(prime.nextProbablePrime()).append("\n");
         }
+
         System.out.print(str);
         br.close();
     }
