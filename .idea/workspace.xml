@@ -52,20 +52,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S4_4134_다음_소수">
-    <configuration name="BOJ_B1_11005_진법_변환_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_11005_진법_변환_2" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_S4_2164_카드2">
     <configuration name="BOJ_B3_5073_삼각형과_세_변" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_5073_삼각형과_세_변" />
       <module name="BaekJoon" />
@@ -105,6 +92,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_S4_2164_카드2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S4_2164_카드2" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BOJ_S4_4134_다음_소수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S4_4134_다음_소수" />
       <module name="BaekJoon" />
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_S4_2164_카드2" />
         <item itemvalue="Application.BOJ_S4_4134_다음_소수" />
         <item itemvalue="Application.BOJ_B3_5073_삼각형과_세_변" />
         <item itemvalue="Application.BOJ_S4_1920_수_찾기" />
         <item itemvalue="Application.BOJ_B4_10101_삼각형_외우기" />
-        <item itemvalue="Application.BOJ_B1_11005_진법_변환_2" />
       </list>
     </recent_temporary>
   </component>
