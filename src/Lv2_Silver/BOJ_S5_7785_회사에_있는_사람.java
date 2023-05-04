@@ -1,16 +1,13 @@
 package Lv2_Silver;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
-
+import java.io.*;
+import java.util.*;
 /**
  * @author HanHoon
- * @category .
- * https://www.acmicpc.net/problem/1436
+ * @category 자료 구조, 해시를 사용한 집합과 맵
+ * https://www.acmicpc.net/problem/.
  */
-public class BOJ_S5_1436_영화감독_숌 {
+public class BOJ_S5_7785_회사에_있는_사람 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = null;
