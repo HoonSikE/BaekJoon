@@ -22,6 +22,7 @@ public class BOJ_B2_19532_수학은_비대면강의입니다 {
         int e = Integer.parseInt(st.nextToken());
         int f = Integer.parseInt(st.nextToken());
 
+        
         System.out.print(str);
         br.close();
     }
