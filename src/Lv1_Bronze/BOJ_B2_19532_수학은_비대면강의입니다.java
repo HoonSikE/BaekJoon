@@ -14,7 +14,7 @@ public class BOJ_B2_19532_수학은_비대면강의입니다 {
         StringTokenizer st = new StringTokenizer(br.readLine());
         StringBuilder str = new StringBuilder();
 
-        // N
+        // a, b, c, d, e, f
         int a = Integer.parseInt(st.nextToken());
         int b = Integer.parseInt(st.nextToken());
         int c = Integer.parseInt(st.nextToken());
@@ -22,7 +22,7 @@ public class BOJ_B2_19532_수학은_비대면강의입니다 {
         int e = Integer.parseInt(st.nextToken());
         int f = Integer.parseInt(st.nextToken());
 
-        
+
         System.out.print(str);
         br.close();
     }
