@@ -22,6 +22,19 @@ public class BOJ_B2_19532_수학은_비대면강의입니다 {
         int e = Integer.parseInt(st.nextToken());
         int f = Integer.parseInt(st.nextToken());
 
+        int aswX = 0;
+        int aswY = 0;
+
+        loop:
+        for(int x = -999; x < 1000; x++)
+            for(int y = -999; y < 1000; y++)
+                if((a*x+b*y==c)&&(d*x+e*y==f)){
+                    aswX = x;
+                    aswY = y;
+                    break loop;
+                }
+
+        str.append(aswX + " " + aswY);
 
         System.out.print(str);
         br.close();
