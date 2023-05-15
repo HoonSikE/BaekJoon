@@ -1,29 +1,31 @@
 package Lv2_Silver;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 
 /**
  * @author HanHoon
- * @category .
+ * @category 브루트포스 알고리즘
  * https://www.acmicpc.net/problem/1436
  */
 public class BOJ_S5_1436_영화감독_숌 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = null;
         StringBuilder str = new StringBuilder();
 
         // N
         int N = Integer.parseInt(br.readLine());
+        int num = 666;
+        int cnt = 1;
 
-        for (int n = 0; n < N; n++){
-            st = new StringTokenizer(br.readLine());
-            Integer.parseInt(st.nextToken());
-            Integer.parseInt(br.readLine());
+        while(cnt != N) {
+            num++;
+            if(String.valueOf(num).contains("666"))
+                cnt++;
         }
+
+        str.append(num);
+
         System.out.print(str);
         br.close();
     }
