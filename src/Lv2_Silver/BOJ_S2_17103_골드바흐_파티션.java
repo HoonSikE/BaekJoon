@@ -1,14 +1,12 @@
 package Lv2_Silver;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 
 /**
  * @author HanHoon
- * @category .
- * https://www.acmicpc.net/problem/.
+ * @category 수학, 정수론, 소수 판정, 에라토스테네스의 체
+ * https://www.acmicpc.net/problem/17103
  */
 public class BOJ_S2_17103_골드바흐_파티션 {
     public static void main(String[] args) throws IOException {
