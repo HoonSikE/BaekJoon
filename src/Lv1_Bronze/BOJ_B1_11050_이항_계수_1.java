@@ -1,29 +1,31 @@
 package Lv1_Bronze;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 
 /**
  * @author HanHoon
- * @category .
- * https://www.acmicpc.net/problem/.
+ * @category 수학, 구현, 조합론
+ * https://www.acmicpc.net/problem/11050
  */
 public class BOJ_B1_11050_이항_계수_1 {
+    static int factorial(int N){
+        if(N <= 1)
+            return 1;
+        return N * factorial(N-1);
+    }
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = null;
+        StringTokenizer st = new StringTokenizer(br.readLine());
         StringBuilder str = new StringBuilder();
 
-        // N
-        int N = Integer.parseInt(br.readLine());
+        // N, K
+        int N = Integer.parseInt(st.nextToken());
+        int K = Integer.parseInt(st.nextToken());
 
-        for (int n = 0; n < N; n++){
-            st = new StringTokenizer(br.readLine());
-            Integer.parseInt(st.nextToken());
-            Integer.parseInt(br.readLine());
-        }
+        // nCk = n! / ((n-k)! * k!)
+        str.append(factorial(N) / (factorial(N-K) * factorial(K)));
+
         System.out.print(str);
         br.close();
     }
