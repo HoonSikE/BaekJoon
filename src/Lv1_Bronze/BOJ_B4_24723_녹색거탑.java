@@ -1,29 +1,23 @@
 package Lv1_Bronze;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.math.*;
 
 /**
  * @author HanHoon
- * @category .
- * https://www.acmicpc.net/problem/.
+ * @category 수학, 사칙연산
+ * https://www.acmicpc.net/problem/24723
  */
 public class BOJ_B4_24723_녹색거탑 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = null;
         StringBuilder str = new StringBuilder();
 
         // N
         int N = Integer.parseInt(br.readLine());
 
-        for (int n = 0; n < N; n++){
-            st = new StringTokenizer(br.readLine());
-            Integer.parseInt(st.nextToken());
-            Integer.parseInt(br.readLine());
-        }
+        str.append(BigInteger.valueOf(1).shiftLeft(N));
+
         System.out.print(str);
         br.close();
     }

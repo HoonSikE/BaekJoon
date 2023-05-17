@@ -52,20 +52,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B2_15829_Hashing">
-    <configuration name="BOJ_B1_11050_이항_계수_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_11050_이항_계수_1" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_B4_24723_녹색거탑">
     <configuration name="BOJ_B2_15829_Hashing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_15829_Hashing" />
       <module name="BaekJoon" />
@@ -81,6 +68,19 @@
     </configuration>
     <configuration name="BOJ_B4_15439_베라의_패션" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_15439_베라의_패션" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_B4_24723_녹색거탑" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_24723_녹색거탑" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B4_24723_녹색거탑" />
         <item itemvalue="Application.BOJ_B2_15829_Hashing" />
         <item itemvalue="Application.BOJ_B4_15439_베라의_패션" />
         <item itemvalue="Application.BOJ_S2_17103_골드바흐_파티션" />
         <item itemvalue="Application.BOJ_S5_7568_덩치" />
-        <item itemvalue="Application.BOJ_B1_11050_이항_계수_1" />
       </list>
     </recent_temporary>
   </component>
