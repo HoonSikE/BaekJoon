@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S4_26069_붙임성_좋은_총총이.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S4_26069_붙임성_좋은_총총이.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S4_25192_인사성_밝은_곰곰이">
+  <component name="RunManager" selected="Application.BOJ_S4_26069_붙임성_좋은_총총이">
     <configuration name="BOJ_B2_15829_Hashing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_15829_Hashing" />
       <module name="BaekJoon" />
@@ -92,19 +91,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_S2_17103_골드바흐_파티션" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S2_17103_골드바흐_파티션" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2_Silver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="BOJ_S4_25192_인사성_밝은_곰곰이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S4_25192_인사성_밝은_곰곰이" />
       <module name="BaekJoon" />
@@ -118,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_S4_26069_붙임성_좋은_총총이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S4_26069_붙임성_좋은_총총이" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_S4_26069_붙임성_좋은_총총이" />
         <item itemvalue="Application.BOJ_S4_25192_인사성_밝은_곰곰이" />
         <item itemvalue="Application.BOJ_B4_24723_녹색거탑" />
         <item itemvalue="Application.BOJ_B2_15829_Hashing" />
         <item itemvalue="Application.BOJ_B4_15439_베라의_패션" />
-        <item itemvalue="Application.BOJ_S2_17103_골드바흐_파티션" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +162,7 @@
       <workItem from="1683002687691" duration="17172000" />
       <workItem from="1684237977359" duration="1730000" />
       <workItem from="1684239714086" duration="15000" />
-      <workItem from="1684239738449" duration="10309000" />
+      <workItem from="1684239738449" duration="11393000" />
     </task>
     <servers />
   </component>
