@@ -45,13 +45,13 @@
       <recent name="$PROJECT_DIR$/src/Lv1_Bronze" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Lv1_Bronze" />
       <recent name="Lv2_Silver" />
+      <recent name="Lv1_Bronze" />
       <recent name="Lv3_Gold" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B2_1075_나누기">
+  <component name="RunManager" selected="Application.BOJ_S3_20920_영단어_암기는_괴로워">
     <configuration name="BOJ_B1_1032_명령_프롬프트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_1032_명령_프롬프트" />
       <module name="BaekJoon" />
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B4_24723_녹색거탑" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_24723_녹색거탑" />
+    <configuration name="BOJ_S3_20920_영단어_암기는_괴로워" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S3_20920_영단어_암기는_괴로워" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="PATTERN" value="Lv2_Silver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_S3_20920_영단어_암기는_괴로워" />
         <item itemvalue="Application.BOJ_B2_1075_나누기" />
         <item itemvalue="Application.BOJ_B1_1032_명령_프롬프트" />
         <item itemvalue="Application.BOJ_S4_26069_붙임성_좋은_총총이" />
         <item itemvalue="Application.BOJ_S4_25192_인사성_밝은_곰곰이" />
-        <item itemvalue="Application.BOJ_B4_24723_녹색거탑" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +162,7 @@
       <workItem from="1683002687691" duration="17172000" />
       <workItem from="1684237977359" duration="1730000" />
       <workItem from="1684239714086" duration="15000" />
-      <workItem from="1684239738449" duration="15075000" />
+      <workItem from="1684239738449" duration="18313000" />
     </task>
     <servers />
   </component>
