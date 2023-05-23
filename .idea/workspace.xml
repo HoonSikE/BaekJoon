@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S3_20920_영단어_암기는_괴로워">
+  <component name="RunManager" selected="Application.BOJ_S2_18111_마인크래프트">
     <configuration name="BOJ_B1_1032_명령_프롬프트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_1032_명령_프롬프트" />
       <module name="BaekJoon" />
@@ -78,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_S3_20920_영단어_암기는_괴로워" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S3_20920_영단어_암기는_괴로워" />
+    <configuration name="BOJ_S2_18111_마인크래프트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S2_18111_마인크래프트" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_S4_25192_인사성_밝은_곰곰이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S4_25192_인사성_밝은_곰곰이" />
+    <configuration name="BOJ_S3_20920_영단어_암기는_괴로워" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S3_20920_영단어_암기는_괴로워" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_S2_18111_마인크래프트" />
         <item itemvalue="Application.BOJ_S3_20920_영단어_암기는_괴로워" />
         <item itemvalue="Application.BOJ_B2_1075_나누기" />
         <item itemvalue="Application.BOJ_B1_1032_명령_프롬프트" />
         <item itemvalue="Application.BOJ_S4_26069_붙임성_좋은_총총이" />
-        <item itemvalue="Application.BOJ_S4_25192_인사성_밝은_곰곰이" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +161,8 @@
       <workItem from="1683002687691" duration="17172000" />
       <workItem from="1684237977359" duration="1730000" />
       <workItem from="1684239714086" duration="15000" />
-      <workItem from="1684239738449" duration="18313000" />
+      <workItem from="1684239738449" duration="19314000" />
+      <workItem from="1684846794029" duration="5093000" />
     </task>
     <servers />
   </component>
