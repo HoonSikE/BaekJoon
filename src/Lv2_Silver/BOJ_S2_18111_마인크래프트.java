@@ -24,9 +24,11 @@ public class BOJ_S2_18111_마인크래프트 {
          * 인벤토리에서 블록 하나를 꺼내서 좌표의 가장 위에 있는 블록 위에 놓는 작업 = 1초
          */
         int[][] arr = new int[N][M];
+        // 최소, 최대 높이
         int min = 256;
         int max = 0;
 
+        // 블럭 저장
         for (int n = 0; n < N; n++){
             st = new StringTokenizer(br.readLine());
             for (int m = 0; m < M; m++) {
@@ -49,12 +51,14 @@ public class BOJ_S2_18111_마인크래프트 {
 
             for(int i = 0; i < N; i++){
                 for(int j = 0; j < M; j++){
+                    // 높으면 블록을 인벤토리에 넣는다.
                     if(n < arr[i][j]){
-                        cnt += ((arr[i][j] - i) * 2);
-                        block += (arr[i][j] - n);
+                        cnt += (arr[i][j] - n) * 2;
+                        block += arr[i][j] - n;
+                    // 낮으면 블록을 쌓는다.
                     }else{
-                        cnt += (n - arr[i][j]);
-                        block -= (n - arr[i][j]);
+                        cnt += n - arr[i][j];
+                        block -= n - arr[i][j];
                     }
                 }
             }
