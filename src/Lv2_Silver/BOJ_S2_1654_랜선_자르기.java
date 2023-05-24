@@ -19,14 +19,41 @@ public class BOJ_S2_1654_랜선_자르기 {
         // N: 필요한 랜선의 개수
         int N = Integer.parseInt(st.nextToken());
 
-        int result = 0;
+        int[] arr = new int[K];
+        long max = Long.MIN_VALUE;
 
         for (int k = 0; k < K; k++){
-            Integer.parseInt(br.readLine());
+            arr[k] = Integer.parseInt(br.readLine());
+            max = Math.max(max, arr[k]);
         }
 
-        if(K >= N)
-            ;
+        max++;
+
+        long min = 0;
+        long mid = 0;
+
+        while(min < max){
+            // 중간 길이를 구한다.
+            mid = (max+min)/2;
+
+            long cnt = 0;
+
+            // 중간 길이로 잘랐을 때 몇 개가 만들어 지는지 확인
+            for(int i = 0; i < arr.length; i++)
+                cnt += arr[i]/mid;
+
+            /**
+             * 이분탐색 응용
+             * Lower bound
+             */
+            // upper bound 형식
+            if(cnt < N)
+                max = mid;
+            else
+                min = mid + 1;
+        }
+
+        str.append(min - 1);
 
         System.out.print(str);
         br.close();
