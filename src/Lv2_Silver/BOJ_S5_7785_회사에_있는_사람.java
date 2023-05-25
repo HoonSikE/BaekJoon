@@ -32,8 +32,8 @@ public class BOJ_S5_7785_회사에_있는_사람 {
         ArrayList<String> list = new ArrayList<String>(map.keySet());
 
         /**
-         * reverse
-         * reverseOrder
+         * reverse: 그냥 거꾸로
+         * reverseOrder: 역순 정렬
          */
 //        Collections.reverse(list);
         Collections.sort(list, Collections.reverseOrder());
