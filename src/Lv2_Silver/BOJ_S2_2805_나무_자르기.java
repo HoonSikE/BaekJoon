@@ -29,6 +29,12 @@ public class BOJ_S2_2805_나무_자르기 {
 
         long min = 0;
 
+        /**
+         * 이분탐색 응용
+         * 이분탐색: 찾고자 하는 값이 없으면 탐색 실패
+         * Lower bound: 찾고자 하는 값 이상이 처음 나타나는 위치
+         * Lower bound: 찾고자 하는 값보다 큰 값이 처음 나타나는 위치
+         */
         while(min < max) {
             long mid = (min+max)/2;
             long length = 0;
