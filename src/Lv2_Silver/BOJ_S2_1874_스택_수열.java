@@ -23,11 +23,13 @@ public class BOJ_S2_1874_스택_수열 {
             int value = Integer.parseInt(br.readLine());
 
             if(value > start){
+                // start+1 ~ value까지 push
                 for(int i = start + 1; i <= value; i++){
                     stack.push(i);
                     str.append("+\n");
                 }
                 start = value;
+            // 불가능한 경우 NO
             }else if(stack.peek() != value){
                 System.out.println("NO");
                 return;

@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S5_1010_다리_놓기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S5_1010_다리_놓기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S2_1874_스택_수열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S2_1874_스택_수열.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +51,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S5_1010_다리_놓기">
-    <configuration name="BOJ_B2_1075_나누기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1075_나누기" />
+  <component name="RunManager" selected="Application.BOJ_S2_1874_스택_수열">
+    <configuration name="BOJ_S2_18111_마인크래프트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S2_18111_마인크래프트" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="PATTERN" value="Lv2_Silver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_S2_18111_마인크래프트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S2_18111_마인크래프트" />
+    <configuration name="BOJ_S2_1874_스택_수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S2_1874_스택_수열" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_S2_1874_스택_수열" />
         <item itemvalue="Application.BOJ_S5_1010_다리_놓기" />
         <item itemvalue="Application.BOJ_S2_2805_나무_자르기" />
         <item itemvalue="Application.BOJ_S2_18111_마인크래프트" />
         <item itemvalue="Application.BOJ_S3_20920_영단어_암기는_괴로워" />
-        <item itemvalue="Application.BOJ_B2_1075_나누기" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +166,7 @@
       <workItem from="1684846794029" duration="6089000" />
       <workItem from="1684854441722" duration="3246000" />
       <workItem from="1684915202256" duration="3900000" />
-      <workItem from="1684990713636" duration="1084000" />
+      <workItem from="1684990713636" duration="2416000" />
     </task>
     <servers />
   </component>
