@@ -7,43 +7,63 @@ import java.util.*;
  * @category 그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색
  * https://www.acmicpc.net/problem/1260
  */
-class Node{
-	
-}
 public class BOJ_S2_1260_DFS와_BFS {
 	static StringBuilder str = new StringBuilder();
-	static Queue<Integer> queue = new LinkedList<>();
 	static boolean[] check;
-	static int node;
-	public static void dfs(int start) {
-		check[start] = true;
-		str.append(start + " ");
+	static int[][] arr;
+	static int N, M, V;
+	static Queue<Integer> queue = new LinkedList<>();
+	public static void dfs(int num) {
+		check[num] = true;
+		str.append(num + " ");
+
+		for(int n = 0; n <= N; n++)
+			if(arr[num][n] == 1 && !check[n])
+				dfs(n);
 	}
-	public static void bfs(int start) {
-		queue.add(start);
-		check[start] = true;
+	public static void bfs(int num) {
+		queue.add(num);
+		check[num] = true;
 
 		while(!queue.isEmpty()){
-			start = queue.poll();
-			str.append(start + " ");
+			num = queue.poll();
+			str.append(num + " ");
 
-			for(int n = 1; n <= node; n++){
-				
+			for(int n = 1; n <= N; n++){
+				if(arr[num][n] == 1 && !check[n]){
+					queue.add(n);
+					check[n] = true;
+				}
 			}
 		}
 	}
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+		StringTokenizer st = new StringTokenizer(br.readLine());
 		// N: 정점의 개수, M: 간선의 개수, V: 탐색을 시작할 정점의 번호
-		int N = Integer.parseInt(st.nextToken());
-		int M = Integer.parseInt(st.nextToken());
-		int V = Integer.parseInt(st.nextToken());
+		N = Integer.parseInt(st.nextToken());
+		M = Integer.parseInt(st.nextToken());
+		V = Integer.parseInt(st.nextToken());
+
+		arr = new int[N+1][N+1];
+		check = new boolean[N+1];
+
 		// 간선이 연결하는 두 정점의 번호
 		for (int m = 0; m < M; m++) {
 			st = new StringTokenizer(br.readLine());
-			
+
+			int x = Integer.parseInt(st.nextToken());
+			int y = Integer.parseInt(st.nextToken());
+
+			arr[x][y] = arr[y][x] = 1;
 		}
+
+		dfs(V);
+		str.append("\n");
+
+		check = new boolean[N+1];
+		bfs(V);
+
 		System.out.println(str.toString());
 		br.close();
 	}

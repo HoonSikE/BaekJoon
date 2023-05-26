@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S2_1260_DFS와_BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S2_1260_DFS와_BFS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_1271_엄청난_부자2">
+  <component name="RunManager" selected="Application.BOJ_S2_1260_DFS와_BFS">
     <configuration name="BOJ_B5_1271_엄청난_부자2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_1271_엄청난_부자2" />
       <module name="BaekJoon" />
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_S2_18111_마인크래프트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S2_18111_마인크래프트" />
+    <configuration name="BOJ_S2_1260_DFS와_BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S2_1260_DFS와_BFS" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_S2_1260_DFS와_BFS" />
         <item itemvalue="Application.BOJ_B5_1271_엄청난_부자2" />
         <item itemvalue="Application.BOJ_S2_1874_스택_수열" />
         <item itemvalue="Application.BOJ_S5_1010_다리_놓기" />
         <item itemvalue="Application.BOJ_S2_2805_나무_자르기" />
-        <item itemvalue="Application.BOJ_S2_18111_마인크래프트" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +168,8 @@
       <workItem from="1684915202256" duration="3900000" />
       <workItem from="1684990713636" duration="6198000" />
       <workItem from="1685000638083" duration="97000" />
-      <workItem from="1685083972276" duration="2362000" />
+      <workItem from="1685083972276" duration="4029000" />
+      <workItem from="1685125579535" duration="3666000" />
     </task>
     <servers />
   </component>
