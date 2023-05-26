@@ -7,7 +7,6 @@
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S2_1260_DFS와_BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S2_1260_DFS와_BFS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +45,9 @@
       <recent name="$PROJECT_DIR$/src/Lv1_Bronze" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Lv1_Bronze" />
       <recent name="Lv2_Silver" />
       <recent name="Lv3_Gold" />
+      <recent name="Lv1_Bronze" />
       <recent name="" />
     </key>
   </component>
@@ -168,6 +167,8 @@
       <workItem from="1684854441722" duration="3246000" />
       <workItem from="1684915202256" duration="3900000" />
       <workItem from="1684990713636" duration="6198000" />
+      <workItem from="1685000638083" duration="97000" />
+      <workItem from="1685083972276" duration="2362000" />
     </task>
     <servers />
   </component>
