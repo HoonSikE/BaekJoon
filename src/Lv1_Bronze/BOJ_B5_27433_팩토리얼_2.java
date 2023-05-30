@@ -8,7 +8,7 @@ import java.io.*;
  * https://www.acmicpc.net/problem/27433
  */
 public class BOJ_B5_27433_팩토리얼_2 {
-    public static int factorial(int n){
+    public static long factorial(int n){
         if(n <= 0)
             return 1;
         return n*factorial(n-1);
