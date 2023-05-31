@@ -13,56 +13,30 @@ public class BOJ_S5_25206_너의_평점은 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = null;
 
-        // 학점 총합
-        double sum = 0;
-        // 과목 수
-        double cnt = 0;
+        String str[] = new String[20];
+        double totalSum = 0;
+        double scoreSum = 0;
+        String gradeList[] = {"A+", "A0", "B+", "B0", "C+", "C0", "D+", "D0", "F", "P"};
+        double gradeScore[] = {4.5, 4.0, 3.5, 3.0, 2.5, 2.0, 1.5, 1.0, 0.0, 0.0};
 
-        for (int n = 0; n < 20; n++){
-            st = new StringTokenizer(br.readLine());
-            st.nextToken();
-            // 학점
-            double credit = Double.parseDouble(st.nextToken());
+        for (int i = 0; i < 20; i++) {
+            str[i] = br.readLine();
+            st = new StringTokenizer(str[i]);
+            String subject = st.nextToken();
+            double score = Double.parseDouble(st.nextToken());
             String grade = st.nextToken();
 
-            switch(grade.charAt(0)){
-                case 'P':
-                    break;
-                case 'F':
-                    cnt++;
-                    break;
-                case 'A':
-                    if(grade.charAt(1) == '+')
-                        sum += 4.5 * credit;
-                    else
-                        sum += 4.0 * credit;
-                    cnt += credit;
-                    break;
-                case 'B':
-                    if(grade.charAt(1) == '+')
-                        sum += 3.5 * credit;
-                    else
-                        sum += 3.0 * credit;
-                    cnt += credit;
-                    break;
-                case 'C':
-                    if(grade.charAt(1) == '+')
-                        sum += 2.5 * credit;
-                    else
-                        sum += 2.0 * credit;
-                    cnt += credit;
-                    break;
-                case 'D':
-                    if(grade.charAt(1) == '+')
-                        sum += 1.5 * credit;
-                    else
-                        sum += 1.0 * credit;
-                    cnt += credit;
-                    break;
+            for (int j = 0; j < 10; j++) {
+                if (grade.equals(gradeList[j])) {
+                    totalSum += score * gradeScore[j];
+                    if (j != 9)
+                        scoreSum += score;
+                }
             }
         }
 
-        System.out.printf("%.6f\n", sum/cnt);
+        double average = totalSum / scoreSum;
+        System.out.printf("%.6f\n", average);
 
         br.close();
     }

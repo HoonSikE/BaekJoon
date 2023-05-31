@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S3_2606_바이러스.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S3_2606_바이러스.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S5_25206_너의_평점은.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S5_25206_너의_평점은.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S3_2606_바이러스">
+  <component name="RunManager" selected="Application.BOJ_S5_25206_너의_평점은">
     <configuration name="BOJ_B5_27433_팩토리얼_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_27433_팩토리얼_2" />
       <module name="BaekJoon" />
@@ -119,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_S5_25206_너의_평점은" />
         <item itemvalue="Application.BOJ_S3_2606_바이러스" />
         <item itemvalue="Application.BOJ_S2_24479_알고리즘_수업_깊이_우선_탐색_1" />
         <item itemvalue="Application.BOJ_S3_1463_1로_만들기" />
         <item itemvalue="Application.BOJ_B5_27433_팩토리얼_2" />
-        <item itemvalue="Application.BOJ_S5_25206_너의_평점은" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +169,7 @@
       <workItem from="1685000638083" duration="97000" />
       <workItem from="1685083972276" duration="4029000" />
       <workItem from="1685125579535" duration="5761000" />
-      <workItem from="1685256397288" duration="11424000" />
+      <workItem from="1685256397288" duration="11873000" />
     </task>
     <servers />
   </component>
