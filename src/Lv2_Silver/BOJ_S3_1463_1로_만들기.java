@@ -1,38 +1,41 @@
 package Lv2_Silver;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 /**
  * @author HanHoon
  * @category 다이나믹 프로그래밍
  * https://www.acmicpc.net/problem/1463
  */
 public class BOJ_S3_1463_1로_만들기 {
-	static int[] d;
-	public static int dp(int n) {
-		if(n==1) return 0;
-		if(d[n] > 0) return d[n];
-		
-		d[n] = dp(n-1) + 1;
-		
-		if(n%2==0) {
-			int tmp = dp(n/2) +1;
-			if(d[n] > tmp) d[n] = tmp;
-		}
-		if(n%3 == 0) {
-			int tmp = dp(n/3) +1;
-			if(d[n] > tmp) d[n] = tmp;
-		}
-		
-		return d[n];
-		
-	}
+	/**
+	 * 시간 비교
+	 * 1. 재귀 O, Math O: 시간 초과
+	 * 2. 재귀 O, Math X: 236ms
+	 * 3. 재귀 X, Math O: 104mx
+	 * 4. 재귀 X, Math X: 104ms
+	 */
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int N = Integer.parseInt(br.readLine());
-		d = new int[N+1];
-		System.out.println(dp(N));
+
+		// 연산 횟수 저장
+		int[] dp = new int[N+1];
+
+		dp[0] = dp[1] = 0;
+
+		for(int i = 2; i <= N; i++){
+			dp[i] = dp[i-1] + 1;
+
+			// 2번 연산
+			if(i%2==0)
+				dp[i] = Math.min(dp[i], dp[i/2]+1);
+
+			// 1번 연산
+			if(i%3 == 0)
+				dp[i] = Math.min(dp[i], dp[i/3]+1);
+		}
+
+		System.out.println(dp[N]);
 		br.close();
 	}
 }
