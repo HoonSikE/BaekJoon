@@ -17,6 +17,7 @@ public class BOJ_S2_1012_유기농_배추 {
 
         // T: 테스트 케이스 개수
         int T = Integer.parseInt(br.readLine());
+        int D = Integer.parseInt(br.readLine());
 
         while(T --> 0){
             st = new StringTokenizer(br.readLine());
