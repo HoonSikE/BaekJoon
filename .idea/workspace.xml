@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="" />
+    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,8 +45,8 @@
       <recent name="$PROJECT_DIR$/src/Lv1_Bronze" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Lv1_Bronze" />
       <recent name="Lv2_Silver" />
+      <recent name="Lv1_Bronze" />
       <recent name="Lv3_Gold" />
       <recent name="" />
     </key>
@@ -169,7 +172,7 @@
       <workItem from="1685125579535" duration="5761000" />
       <workItem from="1685256397288" duration="12935000" />
       <workItem from="1685625090088" duration="3147000" />
-      <workItem from="1685865993765" duration="780000" />
+      <workItem from="1685865993765" duration="2725000" />
     </task>
     <servers />
   </component>
