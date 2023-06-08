@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B4_1264_모음의_개수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B4_1264_모음의_개수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S4_11047_동전_0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S4_11047_동전_0.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B4_1264_모음의_개수">
+  <component name="RunManager" selected="Application.BOJ_S4_11047_동전_0">
     <configuration name="BOJ_B2_1076_저항" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1076_저항" />
       <module name="BaekJoon" />
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B4_2440_별_찍기_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_2440_별_찍기_3" />
+    <configuration name="BOJ_S4_11047_동전_0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S4_11047_동전_0" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="PATTERN" value="Lv2_Silver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_S4_11047_동전_0" />
         <item itemvalue="Application.BOJ_B4_1264_모음의_개수" />
         <item itemvalue="Application.BOJ_B2_1100_하얀_칸" />
         <item itemvalue="Application.BOJ_B3_1284_집_주소" />
         <item itemvalue="Application.BOJ_B2_1076_저항" />
-        <item itemvalue="Application.BOJ_B4_2440_별_찍기_3" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +176,7 @@
       <workItem from="1686037121114" duration="263000" />
       <workItem from="1686091217511" duration="1330000" />
       <workItem from="1686169358879" duration="2029000" />
-      <workItem from="1686223263567" duration="888000" />
+      <workItem from="1686223263567" duration="1470000" />
     </task>
     <servers />
   </component>
