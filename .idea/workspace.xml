@@ -51,9 +51,22 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B3_1284_집_주소">
+  <component name="RunManager" selected="Application.BOJ_B2_1100_하얀_칸">
     <configuration name="BOJ_B2_1076_저항" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1076_저항" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_B2_1100_하얀_칸" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1100_하얀_칸" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -104,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B5_2420_사파리월드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_2420_사파리월드" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B2_1100_하얀_칸" />
         <item itemvalue="Application.BOJ_B3_1284_집_주소" />
         <item itemvalue="Application.BOJ_B2_1076_저항" />
         <item itemvalue="Application.BOJ_B4_2440_별_찍기_3" />
         <item itemvalue="Application.BOJ_B5_2338_긴자리_계산" />
-        <item itemvalue="Application.BOJ_B5_2420_사파리월드" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +175,7 @@
       <workItem from="1685865993765" duration="3343000" />
       <workItem from="1686037121114" duration="263000" />
       <workItem from="1686091217511" duration="1330000" />
-      <workItem from="1686169358879" duration="1119000" />
+      <workItem from="1686169358879" duration="1971000" />
     </task>
     <servers />
   </component>
