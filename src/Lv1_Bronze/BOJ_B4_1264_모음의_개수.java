@@ -1,7 +1,6 @@
 package Lv1_Bronze;
 
 import java.io.*;
-import java.util.*;
 
 /**
  * @author HanHoon
@@ -11,17 +10,23 @@ import java.util.*;
 public class BOJ_B4_1264_모음의_개수 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = null;
         StringBuilder str = new StringBuilder();
 
-        // N
-        int N = Integer.parseInt(br.readLine());
+        while(true){
+            String s = br.readLine();
+            int result = 0;
 
-        for (int n = 0; n < N; n++){
-            st = new StringTokenizer(br.readLine());
-            Integer.parseInt(st.nextToken());
-            Integer.parseInt(br.readLine());
+            if(s.equals("#"))
+                break;
+
+            for(char c : s.toCharArray())
+                if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u'
+                    || c=='A' || c=='E' || c=='I' || c=='O' || c=='U')
+                    result++;
+
+            str.append(result).append("\n");
         }
+
         System.out.print(str);
         br.close();
     }
