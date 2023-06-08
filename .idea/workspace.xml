@@ -51,20 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S4_18110_solved_ac">
-    <configuration name="BOJ_B4_1264_모음의_개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_1264_모음의_개수" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_S5_1676_팩토리얼_0의_개수">
     <configuration name="BOJ_S1_11729_하노이_탑_이동_순서" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S1_11729_하노이_탑_이동_순서" />
       <module name="BaekJoon" />
@@ -117,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_S5_1676_팩토리얼_0의_개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S5_1676_팩토리얼_0의_개수" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_S5_1676_팩토리얼_0의_개수" />
         <item itemvalue="Application.BOJ_S4_18110_solved_ac" />
         <item itemvalue="Application.BOJ_S2_1012_유기농_배추" />
         <item itemvalue="Application.BOJ_S1_11729_하노이_탑_이동_순서" />
         <item itemvalue="Application.BOJ_S4_11047_동전_0" />
-        <item itemvalue="Application.BOJ_B4_1264_모음의_개수" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +176,7 @@
       <workItem from="1686037121114" duration="263000" />
       <workItem from="1686091217511" duration="1330000" />
       <workItem from="1686169358879" duration="2029000" />
-      <workItem from="1686223263567" duration="7935000" />
+      <workItem from="1686223263567" duration="8603000" />
     </task>
     <servers />
   </component>
