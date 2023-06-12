@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B4_2083_럭비_클럽">
+  <component name="RunManager" selected="Application.BOJ_B4_2530_인공지능_시계">
     <configuration name="BOJ_B3_1267_핸드폰_요금" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_1267_핸드폰_요금" />
       <module name="BaekJoon" />
@@ -77,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_S2_1012_유기농_배추" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S2_1012_유기농_배추" />
+    <configuration name="BOJ_B4_2530_인공지능_시계" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_2530_인공지능_시계" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="PATTERN" value="Lv1_Bronze.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_S4_18110_solved_ac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S4_18110_solved_ac" />
+    <configuration name="BOJ_B5_1809_Moo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_1809_Moo" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="PATTERN" value="Lv1_Bronze.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B4_2530_인공지능_시계" />
+        <item itemvalue="Application.BOJ_B5_1809_Moo" />
         <item itemvalue="Application.BOJ_B4_2083_럭비_클럽" />
         <item itemvalue="Application.BOJ_B3_1267_핸드폰_요금" />
         <item itemvalue="Application.BOJ_S5_1676_팩토리얼_0의_개수" />
-        <item itemvalue="Application.BOJ_S4_18110_solved_ac" />
-        <item itemvalue="Application.BOJ_S2_1012_유기농_배추" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +177,8 @@
       <workItem from="1686091217511" duration="1330000" />
       <workItem from="1686169358879" duration="2029000" />
       <workItem from="1686223263567" duration="9294000" />
-      <workItem from="1686380684388" duration="2276000" />
+      <workItem from="1686380684388" duration="2407000" />
+      <workItem from="1686554436616" duration="572000" />
     </task>
     <servers />
   </component>
