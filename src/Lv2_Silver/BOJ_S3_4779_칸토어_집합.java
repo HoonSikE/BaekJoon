@@ -16,7 +16,7 @@ public class BOJ_S3_4779_칸토어_집합 {
         int N = Integer.parseInt(br.readLine());
 
         for (int n = 0; n < N; n++){
-            Integer.parseInt(br.readLine());
+            int num = Integer.parseInt(br.readLine());
         }
         System.out.print(str);
         br.close();
