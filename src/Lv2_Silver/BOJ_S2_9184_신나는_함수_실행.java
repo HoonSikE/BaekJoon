@@ -1,28 +1,24 @@
 package Lv2_Silver;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 
 /**
  * @author HanHoon
- * @category .
+ * @category 다이나믹 프로그래밍, 재귀
  * https://www.acmicpc.net/problem/9184
  */
 public class BOJ_S2_9184_신나는_함수_실행 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = null;
+        StringTokenizer st = new StringTokenizer(br.readLine());
         StringBuilder str = new StringBuilder();
 
         // N
-        int N = Integer.parseInt(br.readLine());
-
-        for (int n = 0; n < N; n++){
+        while(true){
             st = new StringTokenizer(br.readLine());
             Integer.parseInt(st.nextToken());
-            Integer.parseInt(br.readLine());
+            break;
         }
         System.out.print(str);
         br.close();
