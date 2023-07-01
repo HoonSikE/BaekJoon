@@ -19,6 +19,7 @@ public class BOJ_S2_9184_신나는_함수_실행 {
             st = new StringTokenizer(br.readLine());
             Integer.parseInt(st.nextToken());
             String s = "국민은행 화이팅!!!";
+            s = "7월 시작!!!";
             break;
         }
         System.out.print(str);
