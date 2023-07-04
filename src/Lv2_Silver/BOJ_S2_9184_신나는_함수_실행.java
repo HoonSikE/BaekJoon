@@ -18,6 +18,7 @@ public class BOJ_S2_9184_신나는_함수_실행 {
         while(true){
             st = new StringTokenizer(br.readLine());
             Integer.parseInt(st.nextToken());
+            String s = "";
             break;
         }
         System.out.print(str);
