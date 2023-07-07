@@ -12,13 +12,16 @@ public class BOJ_S3_4779_칸토어_집합 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder str = new StringBuilder();
 
-        // N
-        int N = Integer.parseInt(br.readLine());
-        int M = Integer.parseInt(br.readLine());
+        while(true){
+            String s = br.readLine();
 
-        for (int n = 0; n < N; n++){
-            int num = Integer.parseInt(br.readLine());
+            if(s == null)
+                break;
+
+            int N = Integer.parseInt(s);
+
         }
+
         System.out.print(str);
         br.close();
     }
