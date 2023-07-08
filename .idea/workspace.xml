@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B4_3046_R2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B4_3046_R2.java" afterDir="false" />
-    </list>
+    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +48,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B4_3046_R2">
+  <component name="RunManager" selected="Application.BOJ_B5_3733_Shares">
     <configuration name="BOJ_B4_3046_R2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_3046_R2" />
       <module name="BaekJoon" />
@@ -120,9 +116,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_3733_Shares" />
         <item itemvalue="Application.BOJ_B4_3046_R2" />
         <item itemvalue="Application.BOJ_B4_3765_Celebrity_jeopardy" />
-        <item itemvalue="Application.BOJ_B5_3733_Shares" />
         <item itemvalue="Application.BOJ_S1_1629_곱셈" />
         <item itemvalue="Application.BOJ_S5_2740_행렬_곱셈" />
       </list>
@@ -186,7 +182,7 @@
       <workItem from="1686847872396" duration="1853000" />
       <workItem from="1687146691878" duration="3277000" />
       <workItem from="1687356915406" duration="3805000" />
-      <workItem from="1687783385166" duration="11123000" />
+      <workItem from="1687783385166" duration="11830000" />
     </task>
     <servers />
   </component>

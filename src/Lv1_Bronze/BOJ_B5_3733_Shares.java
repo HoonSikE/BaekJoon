@@ -18,7 +18,7 @@ public class BOJ_B5_3733_Shares {
 
         while(true){
             String line = br.readLine();
-            if(line == null)
+            if(line == null || line.equals(""))
                 break;
 
             st = new StringTokenizer(line);
