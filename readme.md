@@ -110,6 +110,7 @@
         BOJ_B4_2588_곱셈.java					2022-04-18
         BOJ_B4_2742_기찍_N
         BOJ_B4_2753_윤년.java					2022-04-21
+        BOJ_B4_2845_파티가_끝나고_난_뒤
         BOJ_B4_3046_R2
         BOJ_B4_3765_Celebrity_jeopardy
         BOJ_B4_9498_시험_성적.java				2022-04-20
