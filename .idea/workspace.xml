@@ -51,9 +51,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_5338_마이크로소프트_로고">
-    <configuration name="BOJ_B4_2752_세수정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_2752_세수정렬" />
+  <component name="RunManager" selected="Application.BOJ_B4_4299_AFC_윔블던">
+    <configuration name="BOJ_B4_4299_AFC_윔블던" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_4299_AFC_윔블던" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B4_4299_AFC_윔블던" />
         <item itemvalue="Application.BOJ_B5_5338_마이크로소프트_로고" />
         <item itemvalue="Application.BOJ_B5_4999_아" />
         <item itemvalue="Application.BOJ_B5_4101_크냐" />
         <item itemvalue="Application.BOJ_B5_2393_Rook" />
-        <item itemvalue="Application.BOJ_B4_2752_세수정렬" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +188,7 @@
       <workItem from="1687783385166" duration="16059000" />
       <workItem from="1688800294945" duration="1009000" />
       <workItem from="1688973345066" duration="535000" />
+      <workItem from="1689051219866" duration="264000" />
     </task>
     <servers />
   </component>
