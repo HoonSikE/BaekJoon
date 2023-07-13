@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B4_4470_줄번호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B4_4470_줄번호.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +188,8 @@
       <workItem from="1687783385166" duration="16059000" />
       <workItem from="1688800294945" duration="1009000" />
       <workItem from="1688973345066" duration="535000" />
-      <workItem from="1689051219866" duration="1177000" />
+      <workItem from="1689051219866" duration="1225000" />
+      <workItem from="1689210294335" duration="6000" />
     </task>
     <servers />
   </component>
