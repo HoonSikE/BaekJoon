@@ -51,20 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_5341_Pyramids">
-    <configuration name="BOJ_B4_4299_AFC_윔블던" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_4299_AFC_윔블던" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_B4_4696_St_lves">
     <configuration name="BOJ_B4_4470_줄번호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_4470_줄번호" />
       <module name="BaekJoon" />
@@ -80,6 +67,19 @@
     </configuration>
     <configuration name="BOJ_B4_4589_Gnome_Sequencing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_4589_Gnome_Sequencing" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_B4_4696_St_lves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_4696_St_lves" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B4_4696_St_lves" />
         <item itemvalue="Application.BOJ_B5_5341_Pyramids" />
         <item itemvalue="Application.BOJ_B4_4589_Gnome_Sequencing" />
         <item itemvalue="Application.BOJ_B5_5339_콜센터" />
         <item itemvalue="Application.BOJ_B4_4470_줄번호" />
-        <item itemvalue="Application.BOJ_B4_4299_AFC_윔블던" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +189,7 @@
       <workItem from="1688800294945" duration="1009000" />
       <workItem from="1688973345066" duration="535000" />
       <workItem from="1689051219866" duration="1225000" />
-      <workItem from="1689210294335" duration="4430000" />
+      <workItem from="1689210294335" duration="5582000" />
     </task>
     <servers />
   </component>
