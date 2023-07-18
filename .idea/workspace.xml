@@ -7,7 +7,6 @@
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B3_1547_공.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B3_1547_공.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B3_1547_공">
+  <component name="RunManager" selected="Application.BOJ_B2_1159_농구_경기">
+    <configuration name="BOJ_B2_1159_농구_경기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1159_농구_경기" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BOJ_B3_1547_공" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_1547_공" />
       <module name="BaekJoon" />
@@ -92,19 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B5_5339_콜센터" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_5339_콜센터" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="BOJ_B5_5341_Pyramids" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_5341_Pyramids" />
       <module name="BaekJoon" />
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B2_1159_농구_경기" />
         <item itemvalue="Application.BOJ_B3_1547_공" />
         <item itemvalue="Application.BOJ_B4_4696_St_lves" />
         <item itemvalue="Application.BOJ_B5_5341_Pyramids" />
         <item itemvalue="Application.BOJ_B4_4589_Gnome_Sequencing" />
-        <item itemvalue="Application.BOJ_B5_5339_콜센터" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +190,8 @@
       <workItem from="1688973345066" duration="535000" />
       <workItem from="1689051219866" duration="1225000" />
       <workItem from="1689210294335" duration="5777000" />
-      <workItem from="1689599406781" duration="718000" />
+      <workItem from="1689599406781" duration="1055000" />
+      <workItem from="1689686380882" duration="1135000" />
     </task>
     <servers />
   </component>
