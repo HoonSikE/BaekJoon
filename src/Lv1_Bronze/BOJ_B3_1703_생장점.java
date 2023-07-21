@@ -1,14 +1,12 @@
 package Lv1_Bronze;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 
 /**
  * @author HanHoon
- * @category .
- * https://www.acmicpc.net/problem/.
+ * @category 수학, 구현, 사칙연산
+ * https://www.acmicpc.net/problem/1703
  */
 public class BOJ_B3_1703_생장점 {
     public static void main(String[] args) throws IOException {
@@ -16,14 +14,25 @@ public class BOJ_B3_1703_생장점 {
         StringTokenizer st = null;
         StringBuilder str = new StringBuilder();
 
-        // N
-        int N = Integer.parseInt(br.readLine());
-
-        for (int n = 0; n < N; n++){
+        while(true){
             st = new StringTokenizer(br.readLine());
-            Integer.parseInt(st.nextToken());
-            Integer.parseInt(br.readLine());
+            int A = Integer.parseInt(st.nextToken());
+            if(A == 0)
+                break;
+
+            int result = 1;
+            for(int a = 0; a < 2*A; a++){
+                int n = Integer.parseInt(st.nextToken());
+                // 생잠점
+                if(a%2 == 0)
+                    result *= n;
+                // 가지치기 수
+                else
+                    result -= n;
+            }
+            str.append(result).append("\n");
         }
+
         System.out.print(str);
         br.close();
     }

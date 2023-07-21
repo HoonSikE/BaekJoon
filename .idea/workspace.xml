@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B3_1703_생장점.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B3_1703_생장점.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B2_1173_운동">
+  <component name="RunManager" selected="Application.BOJ_B3_1703_생장점">
     <configuration name="BOJ_B2_1159_농구_경기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1159_농구_경기" />
       <module name="BaekJoon" />
@@ -104,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B4_4696_St_lves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_4696_St_lves" />
+    <configuration name="BOJ_B3_1703_생장점" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_1703_생장점" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B3_1703_생장점" />
         <item itemvalue="Application.BOJ_B2_1173_운동" />
         <item itemvalue="Application.BOJ_B3_1598_꼬리를_무는_숫자_나열" />
         <item itemvalue="Application.BOJ_B2_1159_농구_경기" />
         <item itemvalue="Application.BOJ_B3_1547_공" />
-        <item itemvalue="Application.BOJ_B4_4696_St_lves" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +193,7 @@
       <workItem from="1689599406781" duration="1055000" />
       <workItem from="1689686380882" duration="1216000" />
       <workItem from="1689763143040" duration="987000" />
-      <workItem from="1689856985162" duration="2390000" />
+      <workItem from="1689856985162" duration="3652000" />
     </task>
     <servers />
   </component>
