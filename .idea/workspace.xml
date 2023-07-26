@@ -51,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B2_1233_주사위">
+  <component name="RunManager" selected="Application.BOJ_B1_1236_성_지키기">
     <configuration name="BOJ_B1_1145_적어도_대부분의_배수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_1145_적어도_대부분의_배수" />
       <module name="BaekJoon" />
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B2_1212_8진수_2진수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1212_8진수_2진수" />
+    <configuration name="BOJ_B1_1236_성_지키기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_1236_성_지키기" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B1_1236_성_지키기" />
         <item itemvalue="Application.BOJ_B2_1233_주사위" />
         <item itemvalue="Application.BOJ_B3_1837_암호제작" />
         <item itemvalue="Application.BOJ_B2_1225_이상한_곱셈" />
         <item itemvalue="Application.BOJ_B1_1145_적어도_대부분의_배수" />
-        <item itemvalue="Application.BOJ_B2_1212_8진수_2진수" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +193,8 @@
       <workItem from="1689599406781" duration="1055000" />
       <workItem from="1689686380882" duration="1216000" />
       <workItem from="1689763143040" duration="987000" />
-      <workItem from="1689856985162" duration="13274000" />
+      <workItem from="1689856985162" duration="15301000" />
+      <workItem from="1690411676322" duration="60000" />
     </task>
     <servers />
   </component>
