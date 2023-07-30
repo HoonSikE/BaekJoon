@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S2_1912_연속합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S2_1912_연속합.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +45,8 @@
       <recent name="$PROJECT_DIR$/src/Lv1_Bronze" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Lv2_Silver" />
       <recent name="Lv1_Bronze" />
+      <recent name="Lv2_Silver" />
       <recent name="Lv3_Gold" />
       <recent name="" />
     </key>
@@ -194,7 +195,7 @@
       <workItem from="1689763143040" duration="987000" />
       <workItem from="1689856985162" duration="15301000" />
       <workItem from="1690411676322" duration="60000" />
-      <workItem from="1690550969430" duration="736000" />
+      <workItem from="1690550969430" duration="2395000" />
     </task>
     <servers />
   </component>
