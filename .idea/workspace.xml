@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S2_1912_연속합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S2_1912_연속합.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B1_1268_임시_반장_정하기">
+  <component name="RunManager" selected="Application.BOJ_S2_1912_연속합">
     <configuration name="BOJ_B1_1236_성_지키기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_1236_성_지키기" />
       <module name="BaekJoon" />
@@ -67,19 +67,6 @@
     </configuration>
     <configuration name="BOJ_B1_1268_임시_반장_정하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_1268_임시_반장_정하기" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_B2_1233_주사위" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1233_주사위" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -117,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_S2_1912_연속합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S2_1912_연속합" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_S2_1912_연속합" />
         <item itemvalue="Application.BOJ_B1_1268_임시_반장_정하기" />
         <item itemvalue="Application.BOJ_B2_1297_TV_크기" />
         <item itemvalue="Application.BOJ_B2_1252_이진수_덧셈" />
         <item itemvalue="Application.BOJ_B1_1236_성_지키기" />
-        <item itemvalue="Application.BOJ_B2_1233_주사위" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +195,7 @@
       <workItem from="1689763143040" duration="987000" />
       <workItem from="1689856985162" duration="15301000" />
       <workItem from="1690411676322" duration="60000" />
-      <workItem from="1690550969430" duration="5791000" />
+      <workItem from="1690550969430" duration="7721000" />
     </task>
     <servers />
   </component>
