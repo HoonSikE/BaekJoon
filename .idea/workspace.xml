@@ -45,13 +45,13 @@
       <recent name="$PROJECT_DIR$/src/Lv1_Bronze" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Lv2_Silver" />
       <recent name="Lv1_Bronze" />
+      <recent name="Lv2_Silver" />
       <recent name="Lv3_Gold" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S3_2579_계단_오르기">
+  <component name="RunManager" selected="Application.BOJ_B1_1292_쉽게_푸는_문제">
     <configuration name="BOJ_B1_1268_임시_반장_정하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_1268_임시_반장_정하기" />
       <module name="BaekJoon" />
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B2_1252_이진수_덧셈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1252_이진수_덧셈" />
+    <configuration name="BOJ_B1_1292_쉽게_푸는_문제" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_1292_쉽게_푸는_문제" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B1_1292_쉽게_푸는_문제" />
         <item itemvalue="Application.BOJ_S3_2579_계단_오르기" />
         <item itemvalue="Application.BOJ_S2_1912_연속합" />
         <item itemvalue="Application.BOJ_B1_1268_임시_반장_정하기" />
         <item itemvalue="Application.BOJ_B2_1297_TV_크기" />
-        <item itemvalue="Application.BOJ_B2_1252_이진수_덧셈" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +195,8 @@
       <workItem from="1689763143040" duration="987000" />
       <workItem from="1689856985162" duration="15301000" />
       <workItem from="1690411676322" duration="60000" />
-      <workItem from="1690550969430" duration="10936000" />
+      <workItem from="1690550969430" duration="11202000" />
+      <workItem from="1690972821808" duration="786000" />
     </task>
     <servers />
   </component>
