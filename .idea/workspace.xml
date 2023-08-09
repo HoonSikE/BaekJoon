@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B2_1350_진짜_공간.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B2_1350_진짜_공간.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S4_28278_스택_2">
+  <component name="RunManager" selected="Application.BOJ_B2_1350_진짜_공간">
     <configuration name="BOJ_B1_1296_팀_이름_정하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_1296_팀_이름_정하기" />
       <module name="BaekJoon" />
@@ -65,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_G2_1119_그래프" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv3_Gold.BOJ_G2_1119_그래프" />
+    <configuration name="BOJ_B2_1350_진짜_공간" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1350_진짜_공간" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lv3_Gold.*" />
+          <option name="PATTERN" value="Lv1_Bronze.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B2_1350_진짜_공간" />
         <item itemvalue="Application.BOJ_S4_28278_스택_2" />
         <item itemvalue="Application.BOJ_B1_1296_팀_이름_정하기" />
         <item itemvalue="Application.BOJ_S3_11727_2xn_타일링_2" />
         <item itemvalue="Application.BOJ_S3_11726_2xn_타일링" />
-        <item itemvalue="Application.BOJ_G2_1119_그래프" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +203,7 @@
       <workItem from="1691239441167" duration="483000" />
       <workItem from="1691239934606" duration="42000" />
       <workItem from="1691331605979" duration="6066000" />
-      <workItem from="1691589679366" duration="255000" />
+      <workItem from="1691589679366" duration="1145000" />
     </task>
     <servers />
   </component>

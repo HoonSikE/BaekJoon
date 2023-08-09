@@ -16,12 +16,26 @@ public class BOJ_B2_1350_진짜_공간 {
 
         // N
         int N = Integer.parseInt(br.readLine());
+        long[] arr = new long[N];
 
+        st = new StringTokenizer(br.readLine());
         for (int n = 0; n < N; n++){
-            st = new StringTokenizer(br.readLine());
-            Integer.parseInt(st.nextToken());
-            Integer.parseInt(br.readLine());
+            arr[n] = Long.parseLong(st.nextToken());
         }
+
+        long C = Long.parseLong(br.readLine());
+
+        long answer = 0;
+
+        for(int n = 0; n < arr.length; n++){
+            if(arr[n]%C == 0)
+                answer += arr[n]/C;
+            else
+                answer += arr[n]/C + 1;
+        }
+
+        str.append(answer*C);
+
         System.out.print(str);
         br.close();
     }
