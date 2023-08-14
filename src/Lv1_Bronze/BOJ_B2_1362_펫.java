@@ -1,28 +1,33 @@
 package Lv1_Bronze;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 
 /**
  * @author HanHoon
- * @category .
- * https://www.acmicpc.net/problem/.
+ * @category 구현, 시뮬레이션
+ * https://www.acmicpc.net/problem/1362
  */
 public class BOJ_B2_1362_펫 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = null;
+        StringTokenizer st = new StringTokenizer(br.readLine());
         StringBuilder str = new StringBuilder();
 
-        // N
-        int N = Integer.parseInt(br.readLine());
+        // o:적정 체중, w: 실제 체중
+        int o = Integer.parseInt(st.nextToken());
+        int w = Integer.parseInt(st.nextToken());
 
-        for (int n = 0; n < N; n++){
+        while(true){
             st = new StringTokenizer(br.readLine());
-            Integer.parseInt(st.nextToken());
-            Integer.parseInt(br.readLine());
+            String action = st.nextToken();
+            int n = Integer.parseInt(st.nextToken());
+
+            if(action.equals("0") && n == 0)
+                break;
+
+            if(action.equals("#") && n == 0)
+                break;
         }
         System.out.print(str);
         br.close();
