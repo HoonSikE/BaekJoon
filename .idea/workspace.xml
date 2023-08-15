@@ -51,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B1_1357_뒤집힌_덧셈">
+  <component name="RunManager" selected="Application.BOJ_B2_1362_펫">
     <configuration name="BOJ_B1_1356_유진수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B1_1356_유진수" />
       <module name="BaekJoon" />
@@ -91,6 +91,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_B2_1362_펫" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1362_펫" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BOJ_B3_2010_플러그" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_2010_플러그" />
       <module name="BaekJoon" />
@@ -104,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_S4_28278_스택_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S4_28278_스택_2" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2_Silver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B2_1362_펫" />
         <item itemvalue="Application.BOJ_B1_1357_뒤집힌_덧셈" />
         <item itemvalue="Application.BOJ_B1_1356_유진수" />
         <item itemvalue="Application.BOJ_B3_2010_플러그" />
         <item itemvalue="Application.BOJ_B2_1350_진짜_공간" />
-        <item itemvalue="Application.BOJ_S4_28278_스택_2" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +207,7 @@
       <workItem from="1691763205671" duration="1177000" />
       <workItem from="1691839975125" duration="728000" />
       <workItem from="1691932143813" duration="45000" />
-      <workItem from="1692005032467" duration="1073000" />
+      <workItem from="1692005032467" duration="1471000" />
     </task>
     <servers />
   </component>

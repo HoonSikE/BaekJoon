@@ -18,6 +18,8 @@ public class BOJ_B2_1362_펫 {
         int o = Integer.parseInt(st.nextToken());
         int w = Integer.parseInt(st.nextToken());
 
+        int t = 1;
+
         while(true){
             st = new StringTokenizer(br.readLine());
             String action = st.nextToken();
@@ -26,8 +28,14 @@ public class BOJ_B2_1362_펫 {
             if(action.equals("0") && n == 0)
                 break;
 
-            if(action.equals("#") && n == 0)
+            if(action.equals("#") && n == 0) {
+                str.append(t + " ");
+
+                str.append(":-)\n");
+                str.append(":-(\n");
+                str.append("RIP\n");
                 break;
+            }
         }
         System.out.print(str);
         br.close();
