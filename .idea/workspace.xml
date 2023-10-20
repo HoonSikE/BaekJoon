@@ -46,15 +46,15 @@
       <recent name="$PROJECT_DIR$/src/Lv1_Bronze" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Lv2_Silver" />
       <recent name="Lv1_Bronze" />
+      <recent name="Lv2_Silver" />
       <recent name="Lv3_Gold" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_7891_Can_you_add_this">
-    <configuration name="BOJ_B2_1453_피시방_알바" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1453_피시방_알바" />
+  <component name="RunManager" selected="Application.BOJ_B2_1718_암호">
+    <configuration name="BOJ_B2_1681_줄_세우기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1681_줄_세우기" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B2_1681_줄_세우기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1681_줄_세우기" />
+    <configuration name="BOJ_B2_1718_암호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1718_암호" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B2_1718_암호" />
         <item itemvalue="Application.BOJ_B5_7891_Can_you_add_this" />
         <item itemvalue="Application.BOJ_S2_1927_최소_힙" />
         <item itemvalue="Application.BOJ_B2_1681_줄_세우기" />
         <item itemvalue="Application.BOJ_B5_5522_카드_게임" />
-        <item itemvalue="Application.BOJ_B2_1453_피시방_알바" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +216,8 @@
       <workItem from="1693145837255" duration="290000" />
       <workItem from="1697551874259" duration="1726000" />
       <workItem from="1697624951653" duration="1586000" />
+      <workItem from="1697768571637" duration="858000" />
+      <workItem from="1697797818541" duration="867000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
