@@ -52,7 +52,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B2_1718_암호">
+  <component name="RunManager" selected="Application.BOJ_B4_5300_Fill_the_Rowboats">
     <configuration name="BOJ_B2_1681_줄_세우기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1681_줄_세우기" />
       <module name="BaekJoon" />
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B5_5522_카드_게임" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_5522_카드_게임" />
+    <configuration name="BOJ_B4_5300_Fill_the_Rowboats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_5300_Fill_the_Rowboats" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B4_5300_Fill_the_Rowboats" />
         <item itemvalue="Application.BOJ_B2_1718_암호" />
         <item itemvalue="Application.BOJ_B5_7891_Can_you_add_this" />
         <item itemvalue="Application.BOJ_S2_1927_최소_힙" />
         <item itemvalue="Application.BOJ_B2_1681_줄_세우기" />
-        <item itemvalue="Application.BOJ_B5_5522_카드_게임" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +217,8 @@
       <workItem from="1697551874259" duration="1726000" />
       <workItem from="1697624951653" duration="1586000" />
       <workItem from="1697768571637" duration="858000" />
-      <workItem from="1697797818541" duration="867000" />
+      <workItem from="1697797818541" duration="1108000" />
+      <workItem from="1697862778923" duration="377000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
