@@ -15,12 +15,15 @@ public class BOJ_B2_1942_디지털시계 {
         StringBuilder str = new StringBuilder();
 
         // N
-        int N = Integer.parseInt(br.readLine());
+        int N = 3;
 
         for (int n = 0; n < N; n++){
-            st = new StringTokenizer(br.readLine());
-            Integer.parseInt(st.nextToken());
-            Integer.parseInt(br.readLine());
+            st = new StringTokenizer(br.readLine(), " ");
+            String s1 = st.nextToken().replace(":", "");
+            String s2 = st.nextToken().replace(":", "");
+
+            str.append(s1).append("\n");
+            str.append(s2).append("\n");
         }
         System.out.print(str);
         br.close();
