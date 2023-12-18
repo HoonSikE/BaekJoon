@@ -22,8 +22,53 @@ public class BOJ_B2_1942_디지털시계 {
             String s1 = st.nextToken().replace(":", "");
             String s2 = st.nextToken().replace(":", "");
 
-            str.append(s1).append("\n");
-            str.append(s2).append("\n");
+            int n1 = Integer.parseInt(s1);
+            int n2 = Integer.parseInt(s2);
+
+            int count = 0;
+
+            int current = n1;
+            while(current != n2){
+                // 3의 배수면 카운팅
+                if(current%3 == 0) {
+                    count++;
+                }
+
+                // 다음 수
+                int tmp = current+1;
+                int next = 0;
+
+                // 초 단위 계산
+                if(tmp%100 >= 60){
+                    next += tmp%100 - 60;
+                    tmp = tmp/100 + 1;
+                }else{
+                    next += tmp%100;
+                    tmp = tmp/100;
+                }
+
+                // 분 단위 계산
+                if(tmp%100 >= 60){
+                    next += (tmp%100 - 60) * 100;
+                    tmp = tmp/100 + 1;
+                }else{
+                    next += (tmp%100) * 100;
+                    tmp = tmp/100;
+                }
+
+                // 시 단위 계산
+                if(tmp%100 >= 24){
+                    next += (tmp%100 - 24) * 10000;
+                }else{
+                    next += (tmp%100) * 10000;
+                }
+                current = next;
+            }
+            // 마지막 값 체크
+            if(n2%3 == 0)
+                count++;
+
+            str.append(count).append("\n");
         }
         System.out.print(str);
         br.close();
