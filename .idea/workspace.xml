@@ -51,20 +51,7 @@
       <recent name="Lv3_Gold" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B3_2712_미국_스타일">
-    <configuration name="BOJ_B2_1718_암호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1718_암호" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_S1_2667_단지번호붙이기">
     <configuration name="BOJ_B2_1942_디지털시계" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1942_디지털시계" />
       <module name="BaekJoon" />
@@ -117,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_S1_2667_단지번호붙이기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S1_2667_단지번호붙이기" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_S1_2667_단지번호붙이기" />
         <item itemvalue="Application.BOJ_B3_2712_미국_스타일" />
         <item itemvalue="Application.BOJ_B4_5357_Dedupe" />
         <item itemvalue="Application.BOJ_B2_1942_디지털시계" />
         <item itemvalue="Application.BOJ_B4_5300_Fill_the_Rowboats" />
-        <item itemvalue="Application.BOJ_B2_1718_암호" />
       </list>
     </recent_temporary>
   </component>
@@ -226,6 +226,8 @@
       <workItem from="1703254401177" duration="12000" />
       <workItem from="1703254420139" duration="919000" />
       <workItem from="1703329119190" duration="1306000" />
+      <workItem from="1703484479289" duration="237000" />
+      <workItem from="1703687718027" duration="920000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
