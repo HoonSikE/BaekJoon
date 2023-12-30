@@ -11,11 +11,9 @@ import java.util.*;
 public class BOJ_S1_6064_카잉_달력 {
     static int M, N, x, y;
     public static int solution(){
-        boolean check = false;
-
-        for (int i = x; i < (N * M); i += M) {
-            if (i % N == y) {
-                return i;
+        for (int num = x-1; num < (N * M); num += M) {
+            if (num % N == y) {
+                return num;
             }
         }
         return -1;
