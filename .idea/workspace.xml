@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="update BOJ 2023-08-27">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S2_11725_트리의_부모_찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S2_11725_트리의_부모_찾기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,25 +47,12 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Lv2_Silver" />
+      <recent name="Lv3_Gold" />
       <recent name="Lv1_Bronze" />
       <recent name="" />
-      <recent name="Lv3_Gold" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S1_6064_카잉_달력">
-    <configuration name="BOJ_B2_1942_디지털시계" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_1942_디지털시계" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_S3_1404_토너먼트_승자">
     <configuration name="BOJ_B3_2712_미국_스타일" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_2712_미국_스타일" />
       <module name="BaekJoon" />
@@ -117,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_S3_1404_토너먼트_승자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S3_1404_토너먼트_승자" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_S3_1404_토너먼트_승자" />
         <item itemvalue="Application.BOJ_S1_6064_카잉_달력" />
         <item itemvalue="Application.BOJ_S1_2667_단지번호붙이기" />
         <item itemvalue="Application.BOJ_B3_2712_미국_스타일" />
         <item itemvalue="Application.BOJ_B4_5357_Dedupe" />
-        <item itemvalue="Application.BOJ_B2_1942_디지털시계" />
       </list>
     </recent_temporary>
   </component>
@@ -230,6 +231,7 @@
       <workItem from="1703687718027" duration="2127000" />
       <workItem from="1703860496617" duration="4779000" />
       <workItem from="1704207324028" duration="498000" />
+      <workItem from="1704290985668" duration="3507000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
