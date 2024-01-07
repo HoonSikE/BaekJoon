@@ -3,6 +3,8 @@ package Lv1_Bronze;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.math.BigDecimal;
+import java.math.MathContext;
 
 /**
  * @author HanHoon
@@ -10,15 +12,18 @@ import java.io.InputStreamReader;
  * https://www.acmicpc.net/problem/2052
  */
 public class BOJ_B2_2052_지수연산 {
-    static int N;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder str = new StringBuilder();
 
         // N
-        N = Integer.parseInt(br.readLine());
+        int N = Integer.parseInt(br.readLine());
 
-        str.append(Math.pow(0.5, N));
+        BigDecimal result = BigDecimal.ONE.divide(BigDecimal.valueOf(2).pow(N));
+
+        // stripTrailingZeros: 불필요한 0 제거
+        // toPlainString: 소수 형태 출력
+        str.append(result.stripTrailingZeros().toPlainString());
 
         System.out.print(str);
         br.close();
