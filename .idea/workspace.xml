@@ -51,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B4_5358_Football_Team">
+  <component name="RunManager" selected="Application.BOJ_B5_8437_Julka">
     <configuration name="BOJ_B2_2052_지수연산" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_2052_지수연산" />
       <module name="BaekJoon" />
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_S1_6064_카잉_달력" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S1_6064_카잉_달력" />
+    <configuration name="BOJ_B5_8437_Julka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_8437_Julka" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="PATTERN" value="Lv1_Bronze.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_8437_Julka" />
         <item itemvalue="Application.BOJ_B4_5358_Football_Team" />
         <item itemvalue="Application.BOJ_B5_8370_Plane" />
         <item itemvalue="Application.BOJ_B2_2052_지수연산" />
         <item itemvalue="Application.BOJ_S3_1404_토너먼트_승자" />
-        <item itemvalue="Application.BOJ_S1_6064_카잉_달력" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +235,9 @@
       <workItem from="1704551902900" duration="63000" />
       <workItem from="1704637562584" duration="1194000" />
       <workItem from="1704725105651" duration="254000" />
-      <workItem from="1704810351365" duration="329000" />
+      <workItem from="1704810351365" duration="1179000" />
+      <workItem from="1704891802619" duration="4000" />
+      <workItem from="1704891813458" duration="613000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
