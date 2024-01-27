@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="update BOJ 2023-08-27">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B2_2355_시그마.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B2_2355_시그마.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B2_2355_시그마">
+  <component name="RunManager" selected="Application.BOJ_B3_2857_FBI">
     <configuration name="BOJ_B2_2154_수_이어_쓰기_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B2_2154_수_이어_쓰기_3" />
       <module name="BaekJoon" />
@@ -92,6 +91,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_B3_2857_FBI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_2857_FBI" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BOJ_B4_5554_심부름_가는_길" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_5554_심부름_가는_길" />
       <module name="BaekJoon" />
@@ -105,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B4_5575_타임_카드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_5575_타임_카드" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B3_2857_FBI" />
         <item itemvalue="Application.BOJ_B2_2355_시그마" />
         <item itemvalue="Application.BOJ_B2_2154_수_이어_쓰기_3" />
         <item itemvalue="Application.BOJ_B3_2783_삼각_김밥" />
         <item itemvalue="Application.BOJ_B4_5554_심부름_가는_길" />
-        <item itemvalue="Application.BOJ_B4_5575_타임_카드" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +248,8 @@
       <workItem from="1705480546414" duration="1104000" />
       <workItem from="1705556482773" duration="101000" />
       <workItem from="1705675253295" duration="7208000" />
-      <workItem from="1706281116844" duration="583000" />
+      <workItem from="1706281116844" duration="1337000" />
+      <workItem from="1706355983280" duration="57000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
