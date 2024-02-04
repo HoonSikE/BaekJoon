@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="update BOJ 2023-08-27">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="update BOJ 2023-08-27" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +49,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B3_2921_도미노">
+  <component name="RunManager" selected="Application.BOJ_B3_2935_소음">
     <configuration name="BOJ_B3_2863_이게_분수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_2863_이게_분수" />
       <module name="BaekJoon" />
@@ -104,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_B4_5717_상근이의_친구들" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_5717_상근이의_친구들" />
+    <configuration name="BOJ_B3_2935_소음" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_2935_소음" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B3_2935_소음" />
         <item itemvalue="Application.BOJ_B3_2921_도미노" />
         <item itemvalue="Application.BOJ_B3_2914_저작권" />
         <item itemvalue="Application.BOJ_B3_2875_대회_or_인턴" />
         <item itemvalue="Application.BOJ_B3_2863_이게_분수" />
-        <item itemvalue="Application.BOJ_B4_5717_상근이의_친구들" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +249,7 @@
       <workItem from="1706281116844" duration="1337000" />
       <workItem from="1706355983280" duration="322000" />
       <workItem from="1706442112722" duration="1529000" />
-      <workItem from="1706536186865" duration="8025000" />
+      <workItem from="1706536186865" duration="8178000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
