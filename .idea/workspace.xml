@@ -51,20 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_8871_Zadanie_probne_2">
-    <configuration name="BOJ_B3_2875_대회_or_인턴" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_2875_대회_or_인턴" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_B5_9653_스타워즈_로고">
     <configuration name="BOJ_B3_2914_저작권" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B3_2914_저작권" />
       <module name="BaekJoon" />
@@ -117,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_B5_9653_스타워즈_로고" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_9653_스타워즈_로고" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_9653_스타워즈_로고" />
         <item itemvalue="Application.BOJ_B5_8871_Zadanie_probne_2" />
         <item itemvalue="Application.BOJ_B3_2935_소음" />
         <item itemvalue="Application.BOJ_B3_2921_도미노" />
         <item itemvalue="Application.BOJ_B3_2914_저작권" />
-        <item itemvalue="Application.BOJ_B3_2875_대회_or_인턴" />
       </list>
     </recent_temporary>
   </component>
@@ -253,6 +253,8 @@
       <workItem from="1706442112722" duration="1529000" />
       <workItem from="1706536186865" duration="8178000" />
       <workItem from="1707055494074" duration="2961000" />
+      <workItem from="1707312477474" duration="1079000" />
+      <workItem from="1707488039601" duration="354000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
