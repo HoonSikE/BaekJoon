@@ -13,7 +13,14 @@ public class BOJ_B5_14928_큰_수_Big {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder str = new StringBuilder();
 
-        str.append(new BigInteger(br.readLine()).mod(new BigInteger("20000303")));
+        String N = br.readLine();
+        long result = 0;
+
+        for(int n = 0; n < N.length(); n++){
+            result = (result*10 + (N.charAt(n) - '0')) % 20000303;
+        }
+
+        str.append(result);
 
         System.out.print(str);
         br.close();
