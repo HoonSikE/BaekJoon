@@ -49,20 +49,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_15733_나는_누구인가">
-    <configuration name="BOJ_B5_14928_큰_수_Big" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_14928_큰_수_Big" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_B5_15740_A_B_9">
     <configuration name="BOJ_B5_15000_CAPS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_15000_CAPS" />
       <module name="BaekJoon" />
@@ -115,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_B5_15740_A_B_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_15740_A_B_9" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_15740_A_B_9" />
         <item itemvalue="Application.BOJ_B5_15733_나는_누구인가" />
         <item itemvalue="Application.BOJ_B5_15727_조별과제를_하려는데_조장이_사라졌다" />
         <item itemvalue="Application.BOJ_B5_15680_연세대학교" />
         <item itemvalue="Application.BOJ_B5_15000_CAPS" />
-        <item itemvalue="Application.BOJ_B5_14928_큰_수_Big" />
       </list>
     </recent_temporary>
   </component>
@@ -267,6 +267,7 @@
       <workItem from="1708996691597" duration="133000" />
       <workItem from="1709130752377" duration="3000" />
       <workItem from="1709130762721" duration="232000" />
+      <workItem from="1709199253983" duration="679000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
