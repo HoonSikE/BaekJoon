@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="update BOJ 2023-08-27">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="update BOJ 2023-08-27" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,20 +49,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_15963_CASIO">
-    <configuration name="BOJ_B5_15727_조별과제를_하려는데_조장이_사라졌다" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_15727_조별과제를_하려는데_조장이_사라졌다" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_B5_15964_이상한_기호">
     <configuration name="BOJ_B5_15733_나는_누구인가" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_15733_나는_누구인가" />
       <module name="BaekJoon" />
@@ -117,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_B5_15964_이상한_기호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_15964_이상한_기호" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_15964_이상한_기호" />
         <item itemvalue="Application.BOJ_B5_15963_CASIO" />
         <item itemvalue="Application.BOJ_B5_15962_새로운_시작" />
         <item itemvalue="Application.BOJ_B5_15740_A_B_9" />
         <item itemvalue="Application.BOJ_B5_15733_나는_누구인가" />
-        <item itemvalue="Application.BOJ_B5_15727_조별과제를_하려는데_조장이_사라졌다" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +269,7 @@
       <workItem from="1709130762721" duration="232000" />
       <workItem from="1709199253983" duration="679000" />
       <workItem from="1709304689702" duration="1192000" />
-      <workItem from="1709475740330" duration="308000" />
+      <workItem from="1709475740330" duration="387000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
