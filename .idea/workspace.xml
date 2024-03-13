@@ -51,9 +51,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_18301_Rats">
-    <configuration name="BOJ_B5_16394_홍익대학교" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_16394_홍익대학교" />
+  <component name="RunManager" selected="Application.BOJ_B5_15232_Rectangles">
+    <configuration name="BOJ_B5_15232_Rectangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_15232_Rectangles" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_15232_Rectangles" />
         <item itemvalue="Application.BOJ_B5_18301_Rats" />
         <item itemvalue="Application.BOJ_B5_18096" />
         <item itemvalue="Application.BOJ_B5_17256_달달함이_넘쳐흘러" />
         <item itemvalue="Application.BOJ_B5_16430_제리와_톰" />
-        <item itemvalue="Application.BOJ_B5_16394_홍익대학교" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +276,7 @@
       <workItem from="1709734250251" duration="1999000" />
       <workItem from="1709995795663" duration="304000" />
       <workItem from="1710065469076" duration="468000" />
-      <workItem from="1710168974211" duration="761000" />
+      <workItem from="1710168974211" duration="1527000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
