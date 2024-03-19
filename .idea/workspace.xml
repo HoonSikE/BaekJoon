@@ -49,20 +49,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_21598_SciComLove">
-    <configuration name="BOJ_B5_15232_Rectangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_15232_Rectangles" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_B5_22193_Multiply">
     <configuration name="BOJ_B5_18409_Counting_Vowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_18409_Counting_Vowels" />
       <module name="BaekJoon" />
@@ -115,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_B5_22193_Multiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_22193_Multiply" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_22193_Multiply" />
         <item itemvalue="Application.BOJ_B5_21598_SciComLove" />
         <item itemvalue="Application.BOJ_B5_21300_Boottle_Return" />
         <item itemvalue="Application.BOJ_B5_20254_Site_Score" />
         <item itemvalue="Application.BOJ_B5_18409_Counting_Vowels" />
-        <item itemvalue="Application.BOJ_B5_15232_Rectangles" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +278,7 @@
       <workItem from="1710337392934" duration="746000" />
       <workItem from="1710427779990" duration="813000" />
       <workItem from="1710507126285" duration="162000" />
-      <workItem from="1710600566780" duration="2002000" />
+      <workItem from="1710600566780" duration="2679000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
