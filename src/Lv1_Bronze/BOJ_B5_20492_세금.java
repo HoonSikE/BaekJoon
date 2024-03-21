@@ -1,14 +1,12 @@
 package Lv1_Bronze;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 
 /**
  * @author HanHoon
- * @category .
- * https://www.acmicpc.net/problem/.
+ * @category 구현
+ * https://www.acmicpc.net/problem/20491
  */
 public class BOJ_B5_20492_세금 {
     public static void main(String[] args) throws IOException {
@@ -16,14 +14,20 @@ public class BOJ_B5_20492_세금 {
         StringTokenizer st = null;
         StringBuilder str = new StringBuilder();
 
-        // N
-        int N = Integer.parseInt(br.readLine());
 
-        for (int n = 0; n < N; n++){
-            st = new StringTokenizer(br.readLine());
-            Integer.parseInt(st.nextToken());
-            Integer.parseInt(br.readLine());
+        String S = br.readLine();
+        int index = 1;
+
+        while(true){
+            if(S.equals("0"))
+                break;
+            else
+                str.append("Case " + index + ": Sorting... done!\n");
+
+            S = br.readLine();
+            index++;
         }
+
         System.out.print(str);
         br.close();
     }
