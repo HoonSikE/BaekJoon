@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 /**
  * @author HanHoon
  * @category .
- * https://www.acmicpc.net/problem/.
+ * https://www.acmicpc.net/problem/24078
  */
 public class BOJ_B5_24078_Remainder {
     public static void main(String[] args) throws IOException {
