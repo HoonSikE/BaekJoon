@@ -49,22 +49,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_24082_Cube">
+  <component name="RunManager" selected="Application.BOJ_B5_24086_Height">
     <configuration name="BOJ_B5_20492_세금" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_20492_세금" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_B5_22193_Multiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_22193_Multiply" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -115,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_B5_24086_Height" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_B5_24086_Height" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_24086_Height" />
         <item itemvalue="Application.BOJ_B5_24082_Cube" />
         <item itemvalue="Application.BOJ_B5_24078_Remainder" />
         <item itemvalue="Application.BOJ_B5_20492_세금" />
         <item itemvalue="Application.BOJ_B5_23234_The_World_Responds" />
-        <item itemvalue="Application.BOJ_B5_22193_Multiply" />
       </list>
     </recent_temporary>
   </component>
@@ -284,6 +284,7 @@
       <workItem from="1711114815732" duration="1440000" />
       <workItem from="1711117913364" duration="259000" />
       <workItem from="1711203114052" duration="162000" />
+      <workItem from="1711257099225" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
