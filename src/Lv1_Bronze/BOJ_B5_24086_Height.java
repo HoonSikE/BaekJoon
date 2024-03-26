@@ -1,4 +1,4 @@
-package Lv2_Silver;
+package Lv1_Bronze;
 
 import java.io.*;
 

@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="update BOJ 2023-08-27" />
+    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="update BOJ 2023-08-27">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_B5_24086_Height.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B5_24086_Height.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,28 +46,15 @@
       <recent name="$PROJECT_DIR$/src/Lv1_Bronze" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lv2_Silver" />
       <recent name="Lv1_Bronze" />
       <recent name="Lv3_Gold" />
-      <recent name="Lv2_Silver" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_24086_Height">
+  <component name="RunManager" selected="Application.BOJ_B5_24309_PABEHCTBO">
     <configuration name="BOJ_B5_20492_세금" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_20492_세금" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_B5_23234_The_World_Responds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_23234_The_World_Responds" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +93,24 @@
       </method>
     </configuration>
     <configuration name="BOJ_B5_24086_Height" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_B5_24086_Height" />
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_24086_Height" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_B5_24309_PABEHCTBO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_24309_PABEHCTBO" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_24309_PABEHCTBO" />
         <item itemvalue="Application.BOJ_B5_24086_Height" />
         <item itemvalue="Application.BOJ_B5_24082_Cube" />
         <item itemvalue="Application.BOJ_B5_24078_Remainder" />
         <item itemvalue="Application.BOJ_B5_20492_세금" />
-        <item itemvalue="Application.BOJ_B5_23234_The_World_Responds" />
       </list>
     </recent_temporary>
   </component>
@@ -285,6 +288,8 @@
       <workItem from="1711117913364" duration="259000" />
       <workItem from="1711203114052" duration="162000" />
       <workItem from="1711257099225" duration="300000" />
+      <workItem from="1711372724609" duration="140000" />
+      <workItem from="1711458953554" duration="904000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
