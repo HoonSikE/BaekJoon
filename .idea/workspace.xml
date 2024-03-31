@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="update BOJ 2023-08-27" />
+    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="update BOJ 2023-08-27">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,20 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_24883_자동완성">
-    <configuration name="BOJ_B5_24086_Height" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_24086_Height" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_B5_25372_성택이의_은밀한_비밀번호">
     <configuration name="BOJ_B5_24309_PABEHCTBO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_24309_PABEHCTBO" />
       <module name="BaekJoon" />
@@ -115,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_B5_25372_성택이의_은밀한_비밀번호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_25372_성택이의_은밀한_비밀번호" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_25372_성택이의_은밀한_비밀번호" />
         <item itemvalue="Application.BOJ_B5_24883_자동완성" />
         <item itemvalue="Application.BOJ_B5_24736_Fooball_Scoring" />
         <item itemvalue="Application.BOJ_B5_24568_Cupcake_Party" />
         <item itemvalue="Application.BOJ_B5_24309_PABEHCTBO" />
-        <item itemvalue="Application.BOJ_B5_24086_Height" />
       </list>
     </recent_temporary>
   </component>
@@ -290,6 +292,8 @@
       <workItem from="1711545925773" duration="218000" />
       <workItem from="1711630919928" duration="720000" />
       <workItem from="1711716221593" duration="189000" />
+      <workItem from="1711806101403" duration="156000" />
+      <workItem from="1711896397700" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
