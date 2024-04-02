@@ -52,20 +52,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_25372_성택이의_은밀한_비밀번호">
-    <configuration name="BOJ_B5_24309_PABEHCTBO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_24309_PABEHCTBO" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_B5_26082_WARBOY">
     <configuration name="BOJ_B5_24568_Cupcake_Party" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_24568_Cupcake_Party" />
       <module name="BaekJoon" />
@@ -118,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_B5_26082_WARBOY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_26082_WARBOY" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_26082_WARBOY" />
         <item itemvalue="Application.BOJ_B5_25372_성택이의_은밀한_비밀번호" />
         <item itemvalue="Application.BOJ_B5_24883_자동완성" />
         <item itemvalue="Application.BOJ_B5_24736_Fooball_Scoring" />
         <item itemvalue="Application.BOJ_B5_24568_Cupcake_Party" />
-        <item itemvalue="Application.BOJ_B5_24309_PABEHCTBO" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +295,7 @@
       <workItem from="1711716221593" duration="189000" />
       <workItem from="1711806101403" duration="156000" />
       <workItem from="1711896397700" duration="376000" />
-      <workItem from="1711983581910" duration="2000" />
+      <workItem from="1711983581910" duration="613000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>

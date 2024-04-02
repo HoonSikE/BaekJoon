@@ -73,6 +73,7 @@ public class BOJ_B1_1894_4번째_점 {
 
             tmp = br.readLine();
         }
+        
         br.close();
     }
 }
