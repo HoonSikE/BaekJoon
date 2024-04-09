@@ -12,18 +12,20 @@ public class BOJ_B5_26575_Pups {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = null;
+        StringBuilder str = new StringBuilder();
 
         // N
         int N = Integer.parseInt(br.readLine());
 
         for (int n = 0; n < N; n++){
             st = new StringTokenizer(br.readLine());
-            int d = Integer.parseInt(st.nextToken());
+            double d = Double.parseDouble(st.nextToken());
             double f = Double.parseDouble(st.nextToken());
             double p = Double.parseDouble(st.nextToken());
 
-            System.out.printf("$%.2f\n", Math.round(d*f*p*100)/100.0);
+            str.append("$" + String.format("%.2f",d*f*p) + "\n");
         }
+        System.out.print(str);
         br.close();
     }
 }
