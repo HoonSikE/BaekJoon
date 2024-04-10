@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="update BOJ 2023-08-27">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="update BOJ 2023-08-27" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,20 +49,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_26575_Pups">
-    <configuration name="BOJ_B5_26307_Correct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_26307_Correct" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_B5_26711_A_B">
     <configuration name="BOJ_B5_26489_Gum_Gum_for_Jay_Jay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_26489_Gum_Gum_for_Jay_Jay" />
       <module name="BaekJoon" />
@@ -117,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_B5_26711_A_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_26711_A_B" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_26711_A_B" />
         <item itemvalue="Application.BOJ_B5_26575_Pups" />
         <item itemvalue="Application.BOJ_B5_26574_Copier" />
         <item itemvalue="Application.BOJ_B5_26545_Mathematics" />
         <item itemvalue="Application.BOJ_B5_26489_Gum_Gum_for_Jay_Jay" />
-        <item itemvalue="Application.BOJ_B5_26307_Correct" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +297,7 @@
       <workItem from="1712154316958" duration="1587000" />
       <workItem from="1712235304006" duration="9474000" />
       <workItem from="1712585969046" duration="131000" />
-      <workItem from="1712671644154" duration="1150000" />
+      <workItem from="1712671644154" duration="2383000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
