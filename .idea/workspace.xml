@@ -49,20 +49,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_27294_몇개고">
-    <configuration name="BOJ_B5_26575_Pups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_26575_Pups" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_B5_27324_Same_Numbers">
     <configuration name="BOJ_B5_26711_A_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_26711_A_B" />
       <module name="BaekJoon" />
@@ -115,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_B5_27324_Same_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_27324_Same_Numbers" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_27324_Same_Numbers" />
         <item itemvalue="Application.BOJ_B5_27294_몇개고" />
         <item itemvalue="Application.BOJ_B5_27219_Po6NH3OH_Kpy30" />
         <item itemvalue="Application.BOJ_B5_26766_Serca" />
         <item itemvalue="Application.BOJ_B5_26711_A_B" />
-        <item itemvalue="Application.BOJ_B5_26575_Pups" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +298,7 @@
       <workItem from="1712235304006" duration="9474000" />
       <workItem from="1712585969046" duration="131000" />
       <workItem from="1712671644154" duration="3327000" />
-      <workItem from="1712934587157" duration="1428000" />
+      <workItem from="1712934587157" duration="2354000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
