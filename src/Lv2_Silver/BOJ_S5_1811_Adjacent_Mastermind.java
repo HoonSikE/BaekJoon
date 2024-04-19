@@ -78,6 +78,7 @@ public class BOJ_S5_1811_Adjacent_Mastermind {
                     white++;
             }
 //            white = tmpA.length() - tmpB.length();
+//            white = tmpA.length() - tmpB.length();
 
             str.append(B + ": ")
                 .append(black + " black, ")
