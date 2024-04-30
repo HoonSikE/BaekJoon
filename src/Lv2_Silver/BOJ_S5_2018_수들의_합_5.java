@@ -18,7 +18,7 @@ public class BOJ_S5_2018_수들의_합_5 {
 
         for (int n = 1; n < N/2+1; n++){
             int sum = n;
-            for (int m = n+1; m <= N; n++){
+            for (int m = n+1; m <= N; m++){
                 sum += m;
                 if(sum == N){
                     result++;
