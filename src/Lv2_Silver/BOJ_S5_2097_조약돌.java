@@ -13,11 +13,26 @@ public class BOJ_S5_2097_조약돌 {
         StringBuilder str = new StringBuilder();
 
         // N
-        int N = Integer.parseInt(br.readLine());
+        long N = Long.parseLong(br.readLine());
 
-        for (int n = 0; n < N; n++){
-            Integer.parseInt(br.readLine());
+        if(N < 3){
+            System.out.println(4);
+            return;
         }
+
+        for (long n = 2; n < N; n++){
+            // 정사각형 안에 다 들어가는 경우
+            if(n*n >= N){
+                str.append((n-1)*4);
+                break;
+            }
+            // 가로나 세로가 1 더 넓을 때 들어가는 경우
+            else if(n*(n+1) >= N){
+                str.append((n-1)*4+2);
+                break;
+            }
+        }
+
         System.out.print(str);
         br.close();
     }
