@@ -51,22 +51,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S5_2167_2차원_배열의_합">
-    <configuration name="BOJ_S5_2018_수들의_합_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S5_2018_수들의_합_5" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2_Silver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_S5_2057_팩토리얼_분해" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S5_2057_팩토리얼_분해" />
+  <component name="RunManager" selected="Application.BOJ_S4_1680_쓰레기_수거">
+    <configuration name="BOJ_S4_1680_쓰레기_수거" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S4_1680_쓰레기_수거" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -117,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_S5_2238_경매" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S5_2238_경매" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv2_Silver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_S4_1680_쓰레기_수거" />
+        <item itemvalue="Application.BOJ_S5_2238_경매" />
         <item itemvalue="Application.BOJ_S5_2167_2차원_배열의_합" />
         <item itemvalue="Application.BOJ_S5_2161_카드1" />
         <item itemvalue="Application.BOJ_S5_2097_조약돌" />
-        <item itemvalue="Application.BOJ_S5_2057_팩토리얼_분해" />
-        <item itemvalue="Application.BOJ_S5_2018_수들의_합_5" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +308,8 @@
       <workItem from="1714051676581" duration="5798000" />
       <workItem from="1714488289379" duration="1120000" />
       <workItem from="1714566349555" duration="1698000" />
-      <workItem from="1714661050694" duration="3808000" />
+      <workItem from="1714661050694" duration="3865000" />
+      <workItem from="1714916589592" duration="2645000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
