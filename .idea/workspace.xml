@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="update BOJ 2023-08-27">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S3_1448_삼각형_만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv2_Silver/BOJ_S3_1448_삼각형_만들기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +46,26 @@
       <recent name="$PROJECT_DIR$/src/Lv1_Bronze" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Lv2_Silver" />
       <recent name="Lv1_Bronze" />
+      <recent name="Lv2_Silver" />
       <recent name="Lv3_Gold" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_S3_1449_수리공_항승">
+  <component name="RunManager" selected="Application.BOJ_B5_28938_KOHBeNep">
+    <configuration name="BOJ_B5_28938_KOHBeNep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_28938_KOHBeNep" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BOJ_S3_1449_수리공_항승" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S3_1449_수리공_항승" />
       <module name="BaekJoon" />
@@ -67,19 +81,6 @@
     </configuration>
     <configuration name="BOJ_S4_1680_쓰레기_수거" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S4_1680_쓰레기_수거" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv2_Silver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_S5_2161_카드1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv2_Silver.BOJ_S5_2161_카드1" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_28938_KOHBeNep" />
         <item itemvalue="Application.BOJ_S3_1449_수리공_항승" />
         <item itemvalue="Application.BOJ_S4_1680_쓰레기_수거" />
         <item itemvalue="Application.BOJ_S5_2238_경매" />
         <item itemvalue="Application.BOJ_S5_2167_2차원_배열의_합" />
-        <item itemvalue="Application.BOJ_S5_2161_카드1" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +311,8 @@
       <workItem from="1714566349555" duration="1698000" />
       <workItem from="1714661050694" duration="3865000" />
       <workItem from="1714916589592" duration="3003000" />
-      <workItem from="1715000540745" duration="1300000" />
+      <workItem from="1715000540745" duration="1642000" />
+      <workItem from="1715168458142" duration="652000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
