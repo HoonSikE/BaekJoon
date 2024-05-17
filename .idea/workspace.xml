@@ -49,20 +49,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_30030_스위트콘_가격_구하기">
-    <configuration name="BOJ_B5_29731_2033년_밈_투표" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_29731_2033년_밈_투표" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_B5_30087_진흥원_세미나">
     <configuration name="BOJ_B5_29751_삼각형" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_29751_삼각형" />
       <module name="BaekJoon" />
@@ -115,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_B5_30087_진흥원_세미나" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_30087_진흥원_세미나" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_30087_진흥원_세미나" />
         <item itemvalue="Application.BOJ_B5_30030_스위트콘_가격_구하기" />
         <item itemvalue="Application.BOJ_B5_30007_라면_공식" />
         <item itemvalue="Application.BOJ_B5_29863_Arnos_Sleep_Schedule" />
         <item itemvalue="Application.BOJ_B5_29751_삼각형" />
-        <item itemvalue="Application.BOJ_B5_29731_2033년_밈_투표" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +312,7 @@
       <workItem from="1715168458142" duration="822000" />
       <workItem from="1715329582893" duration="257000" />
       <workItem from="1715429673177" duration="195000" />
-      <workItem from="1715525316703" duration="3891000" />
+      <workItem from="1715525316703" duration="4662000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
