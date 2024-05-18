@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="update BOJ 2023-08-27" />
+    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="update BOJ 2023-08-27">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,20 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_30087_진흥원_세미나">
-    <configuration name="BOJ_B5_29751_삼각형" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_29751_삼각형" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_B5_30214_An_Easy_Peasy_Problem">
     <configuration name="BOJ_B5_29863_Arnos_Sleep_Schedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_29863_Arnos_Sleep_Schedule" />
       <module name="BaekJoon" />
@@ -115,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_B5_30214_An_Easy_Peasy_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_30214_An_Easy_Peasy_Problem" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_30214_An_Easy_Peasy_Problem" />
         <item itemvalue="Application.BOJ_B5_30087_진흥원_세미나" />
         <item itemvalue="Application.BOJ_B5_30030_스위트콘_가격_구하기" />
         <item itemvalue="Application.BOJ_B5_30007_라면_공식" />
         <item itemvalue="Application.BOJ_B5_29863_Arnos_Sleep_Schedule" />
-        <item itemvalue="Application.BOJ_B5_29751_삼각형" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +314,7 @@
       <workItem from="1715168458142" duration="822000" />
       <workItem from="1715329582893" duration="257000" />
       <workItem from="1715429673177" duration="195000" />
-      <workItem from="1715525316703" duration="4662000" />
+      <workItem from="1715525316703" duration="5836000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
