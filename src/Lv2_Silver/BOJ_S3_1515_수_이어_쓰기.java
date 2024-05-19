@@ -26,6 +26,7 @@ public class BOJ_S3_1515_수_이어_쓰기 {
                 // 마지막 까지 탐색핬다면 그 수가 N의 최솟값이다.
                 if (pt == N.length()) {
                     System.out.print(base);
+                    br.close();
                     return;
                 }
             }
