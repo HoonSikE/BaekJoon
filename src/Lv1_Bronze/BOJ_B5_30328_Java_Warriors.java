@@ -1,7 +1,6 @@
 package Lv1_Bronze;
 
 import java.io.*;
-import java.util.*;
 /**
  * @author HanHoon
  * @category 수학, 사칙연산
