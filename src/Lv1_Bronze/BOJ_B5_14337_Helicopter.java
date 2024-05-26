@@ -7,7 +7,7 @@ import java.io.*;
  * @category 구현
  * https://www.acmicpc.net/problem/14337
  */
-public class BOJ_B5_Helicopter {
+public class BOJ_B5_14337_Helicopter {
     public static void main(String[] args) throws IOException {
         StringBuilder str = new StringBuilder();
 
