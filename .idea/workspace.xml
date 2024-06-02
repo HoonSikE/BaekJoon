@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="update BOJ 2023-08-27">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="update BOJ 2023-08-27" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -316,7 +314,7 @@
       <workItem from="1715429673177" duration="195000" />
       <workItem from="1715525316703" duration="7617000" />
       <workItem from="1716732009793" duration="14000" />
-      <workItem from="1717167133995" duration="833000" />
+      <workItem from="1717167133995" duration="1061000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
