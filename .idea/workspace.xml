@@ -43,26 +43,13 @@
       <recent name="$PROJECT_DIR$/src/Lv1_Bronze" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Lv3_Gold" />
       <recent name="Lv1_Bronze" />
+      <recent name="Lv3_Gold" />
       <recent name="Lv2_Silver" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_31614_Minutes">
-    <configuration name="BOJ_B5_30676_이_별은_무슨_색일까" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_30676_이_별은_무슨_색일까" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_B5_31654_Adding_Trouble">
     <configuration name="BOJ_B5_31606_Fruit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_31606_Fruit" />
       <module name="BaekJoon" />
@@ -115,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_B5_31654_Adding_Trouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_31654_Adding_Trouble" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B5_31654_Adding_Trouble" />
         <item itemvalue="Application.BOJ_B5_31614_Minutes" />
         <item itemvalue="Application.BOJ_B5_31611_Tuesday" />
         <item itemvalue="Application.BOJ_B5_31610_Drops_Packing" />
         <item itemvalue="Application.BOJ_B5_31606_Fruit" />
-        <item itemvalue="Application.BOJ_B5_30676_이_별은_무슨_색일까" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +316,7 @@
       <workItem from="1716732009793" duration="14000" />
       <workItem from="1717167133995" duration="1061000" />
       <workItem from="1717339451897" duration="760000" />
-      <workItem from="1717496559551" duration="1667000" />
+      <workItem from="1717496559551" duration="1863000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
