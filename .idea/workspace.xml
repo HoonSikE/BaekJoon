@@ -51,9 +51,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B5_31654_Adding_Trouble">
-    <configuration name="BOJ_B5_31606_Fruit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B5_31606_Fruit" />
+  <component name="RunManager" selected="Application.BOJ_B4_5928_Contest_Timing">
+    <configuration name="BOJ_B4_5928_Contest_Timing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_5928_Contest_Timing" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B4_5928_Contest_Timing" />
         <item itemvalue="Application.BOJ_B5_31654_Adding_Trouble" />
         <item itemvalue="Application.BOJ_B5_31614_Minutes" />
         <item itemvalue="Application.BOJ_B5_31611_Tuesday" />
         <item itemvalue="Application.BOJ_B5_31610_Drops_Packing" />
-        <item itemvalue="Application.BOJ_B5_31606_Fruit" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +319,7 @@
       <workItem from="1717167133995" duration="1061000" />
       <workItem from="1717339451897" duration="760000" />
       <workItem from="1717496559551" duration="1863000" />
-      <workItem from="1717857894638" duration="766000" />
+      <workItem from="1717857894638" duration="1738000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
