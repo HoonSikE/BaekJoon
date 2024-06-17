@@ -26,7 +26,7 @@ public class BOJ_B4_6841_I_Speck_TXTMSG {
                 case ":-(":
                     result = "I’m unhappy";
                     break;
-                case ";-)R":
+                case ";-)":
                     result = "wink";
                     break;
                 case ":-P":
