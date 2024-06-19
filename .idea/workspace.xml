@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1c227437-714a-4267-b02f-84c8eced6989" name="Changes" comment="update BOJ 2023-08-27">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B4_6888_Terms_of_Office.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lv1_Bronze/BOJ_B4_6888_Terms_of_Office.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,20 +52,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_B4_6825_Body_Mass_Index">
-    <configuration name="BOJ_B4_6749_Next_in_line" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_6749_Next_in_line" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lv1_Bronze.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_B4_6888_Terms_of_Office">
     <configuration name="BOJ_B4_6764_Sounds_fishy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_6764_Sounds_fishy" />
       <module name="BaekJoon" />
@@ -117,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_B4_6888_Terms_of_Office" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lv1_Bronze.BOJ_B4_6888_Terms_of_Office" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lv1_Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_B4_6888_Terms_of_Office" />
         <item itemvalue="Application.BOJ_B4_6825_Body_Mass_Index" />
         <item itemvalue="Application.BOJ_B4_6810_ISBN" />
         <item itemvalue="Application.BOJ_B4_6778_Which_Alien" />
         <item itemvalue="Application.BOJ_B4_6764_Sounds_fishy" />
-        <item itemvalue="Application.BOJ_B4_6749_Next_in_line" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +320,7 @@
       <workItem from="1717167133995" duration="1061000" />
       <workItem from="1717339451897" duration="760000" />
       <workItem from="1717496559551" duration="1863000" />
-      <workItem from="1717857894638" duration="7541000" />
+      <workItem from="1717857894638" duration="8784000" />
     </task>
     <task id="LOCAL-00001" summary="update BOJ 2023-08-27">
       <created>1693146022751</created>
